@@ -1,0 +1,6539 @@
+[
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "Jammy Berry Smoothy. Jammy Berry is mostly Blackberry. You get hints of lemon, vanilla, and banana from the smoothie base and marshmallow.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cream",
+        "percent": 0.33,
+        "grams": 0.33
+      },
+      {
+        "name": "Jammy Berry",
+        "percent": 1.75,
+        "grams": 1.75
+      },
+      {
+        "name": "Marshmallow Vanilla",
+        "percent": 0.7,
+        "grams": 0.7
+      },
+      {
+        "name": "Smoothie Base",
+        "percent": 1.3,
+        "grams": 1.3
+      }
+    ],
+    "pg": "",
+    "vg": 92.92,
+    "totalFlavouring": 4.08,
+    "description": "Creamy berry smoothie.",
+    "author": "Freshepies",
+    "recipeName": "Adam’s Smooth Jams"
+  },
+  {
+    "ageNotes": "Let sit for 4 d\"ays and enjoy...",
+    "flavourNotes": "You da bomb. Oh yes. Two puffs and you be down with this one! An adult bomb pop, tasty! Refill often!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Amaretto Sour",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Bourbon",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Granny Smith",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Lemon",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Oak Barrel",
+        "percent": 0.14,
+        "grams": 0.14
+      },
+      {
+        "name": "Pucker Tobacco",
+        "percent": 0.14,
+        "grams": 0.14
+      },
+      {
+        "name": "Vanilla Custard",
+        "percent": 0.8,
+        "grams": 0.8
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 3.1,
+    "description": "Sweet bomb pop with an adult twist.",
+    "author": "Smoky Blue",
+    "recipeName": "Amaretto Bomb Pop"
+  },
+  {
+    "ageNotes": "7 days",
+    "flavourNotes": "One of four seasonal variations of an apple profile, inspiredby a recent spurt of unseasonably cool weather. This autumn-styled version incorporates warming spices, like cinnamon and ginger, on top of a red-leaning apple profile with some background green apple to help bridge the spice profile. The final result is similar to a freshly baked apple.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Apple",
+        "percent": 2.5,
+        "grams": 2.5
+      },
+      {
+        "name": "Ginger",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Green Apple",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Pear",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Red Apple",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Rich Cinnamon",
+        "percent": 0.15,
+        "grams": 0.15
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.5,
+        "grams": 0.5
+      }
+    ],
+    "pg": 10.85,
+    "vg": 80.0,
+    "totalFlavouring": 6.15,
+    "description": "Explosion of apple flavour.",
+    "author": "Autumn in the Garden of Eden",
+    "recipeName": "Mortal Coil"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Black Currant",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Blueberry",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Boysenberry",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Graham Cracker",
+        "percent": 1.25,
+        "grams": 1.27
+      },
+      {
+        "name": "Lemonade",
+        "percent": 0.25,
+        "grams": 0.23
+      },
+      {
+        "name": "Whipped Cream",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": 21.5,
+    "vg": 70.0,
+    "totalFlavouring": 5.5,
+    "description": "Mash-up of berries with hints of creamy lemon and cracker.",
+    "author": "Berry Smash",
+    "recipeName": "Jazzy_girl"
+  },
+  {
+    "ageNotes": "1 day SNV",
+    "flavourNotes": "This is full of berries and and the pear is used to add some extra juiciness to the mix. Feel free to adjust your sweetness to your preference. Tested recipe on Wasp Nano .38 ohm, 48 watts.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Boysenberry",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Bubble Gum",
+        "percent": 1.75,
+        "grams": 1.75
+      },
+      {
+        "name": "Jammy Berry",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Pear",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.75,
+        "grams": 0.75
+      }
+    ],
+    "pg": 23.0,
+    "vg": 70.0,
+    "totalFlavouring": 4.0,
+    "description": "Delicious bubble gum vape recipe.",
+    "author": "Berrylicious Gum",
+    "recipeName": "Tam_Vapes"
+  },
+  {
+    "ageNotes": "Absolutely delicious after the shake; however, in a fewdays the depth of the bourbon and jammy Berry willcome together and be even more mouth watering.",
+    "flavourNotes": "This recipe was inspired by a recipe I mixed of SimonAtherton, many know him on ELR as Woftam. Not a clone ofhis recipe by any means, just inspired. This will make a terrificsyrup/jam base to keep mixed as a one shot and add yogurt,ice cream, cookie, or custard. Just use your imagination andmix away.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Alpine Strawberry",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Bourbon",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Boysenberry",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Cream",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Jammy Berry",
+        "percent": 0.4,
+        "grams": 0.4
+      }
+    ],
+    "pg": 26.0,
+    "vg": 70.0,
+    "totalFlavouring": 2.0,
+    "description": "Smooth and boozy jam.",
+    "author": "Tam_Vapes",
+    "recipeName": "Bourberry Jam"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Boysenberry",
+        "percent": 0.75,
+        "grams": 2.5
+      },
+      {
+        "name": "Cream",
+        "percent": 0.75,
+        "grams": 2.5
+      },
+      {
+        "name": "Jackfruit",
+        "percent": 0.15,
+        "grams": 0.17
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 1.5,
+        "grams": 1.5
+      }
+    ],
+    "pg": 6.85,
+    "vg": 90.0,
+    "totalFlavouring": 3.15,
+    "description": "Creamy base for boysenberry and a bit of jackfruit.",
+    "author": "Boyz",
+    "recipeName": "Gizzard Stew"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "Red raspberry is brighter and sweeter than the otherraspberry from this line. This is a very sweet recipe.The blueberry is a subtle flavour and needs other fruitsto round it out. I added some friends because I wanta more complex berry profile. You could say they are“berry” good supporters...haha.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Alpine Strawberry",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Apple",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Blood Orange",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Blueberry",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Nectarine",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Red Raspberry",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": 37.26,
+    "vg": 56.0,
+    "totalFlavouring": 2.75,
+    "description": "Layered berry profile.",
+    "author": "Brilliant Berries n’ Friends V2",
+    "recipeName": "Laura"
+  },
+  {
+    "ageNotes": "Allow to sit ar\"ound like a clown for 3 days!",
+    "flavourNotes": "Just like at the fair, candy apple pops, with caramel wraps.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Apple Pop",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Butterscotch",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Candy Roll",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Caramel",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Cream",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Green Apple",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Red Apple",
+        "percent": 0.21,
+        "grams": 0.21
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.84,
+    "description": "Caramel-wrapped candy apple pops.",
+    "author": "Candied Apple Pops",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "The longer you steep this the better.",
+    "flavourNotes": "The caramel cream and pudding create the candy cornbase, the marshamallow is the body, and the strawberryis in there for sweetening it all up!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Caramel",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Cream",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Lemon",
+        "percent": 0.14,
+        "grams": 0.14
+      },
+      {
+        "name": "Lime",
+        "percent": 0.14,
+        "grams": 0.14
+      },
+      {
+        "name": "Marshmallow",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Strawberry",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 0.8,
+        "grams": 0.8
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.49,
+    "description": "Halloween-esque caramel candy corn.",
+    "author": "Candy Corn",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "Allow 3-5 days to steep. Shake well, drain the bottle!",
+    "flavourNotes": "Just for fun.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Candy Roll",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Lime",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Rainier Cherry",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Red Raspberry",
+        "percent": 0.14,
+        "grams": 0.14
+      },
+      {
+        "name": "Sweet Cream",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Watermelon",
+        "percent": 0.8,
+        "grams": 0.8
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.94,
+    "description": "Cherry and lime candy mix with other fruity accents.",
+    "author": "Cherry Lime N3rds",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "1 day",
+    "flavourNotes": "I dont consider any of these obscure flavours, these are must haves!! Sweetness isn’t a flavour, its a sweetener so that can be subbed for your favorite sweetener at your preferred percentage. This is a cinnamon melon granita. The lemonade is supposed to be sweet lemon juice.... If you want a truely authentic mix add some form of coolant. Me, I    don’t do coolant unless I have a cold. I made this for melon week on the flavour pro facebook group. Its just ment to be a    fun unique melon mix and I think I have accomplished that!!!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Lemonade",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Rich Cinnamon",
+        "percent": 0.1,
+        "grams": 0.1
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.35,
+        "grams": 0.37
+      },
+      {
+        "name": "Wild Melon",
+        "percent": 3.0,
+        "grams": 3.0
+      }
+    ],
+    "pg": 16.57,
+    "vg": 75.0,
+    "totalFlavouring": 5.45,
+    "description": "N/A",
+    "author": "Tootall",
+    "recipeName": "Cinnamon Melon Granita"
+  },
+  {
+    "ageNotes": "3 day steep tim\"e is required.",
+    "flavourNotes": "Blue raspberry cotton candy at it’s finest.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Blueberry",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Red Raspberry",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Marshmallow",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Cotton Candy",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Smooth Vanilla",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.21,
+        "grams": 0.21
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 3.23,
+    "description": "Blue raspberry cotton candy vape.",
+    "author": "Cotton Candy",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "Lime and lemon compliment each other. It gets better when they are mixed as a drink recipe. Since the peach is a fresh fruit flavour, a couple supporters were added. The ice gives it a cold drink vibe. A word of caution, ice is best used at extremely low percents. Very good but ages stronger.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Blood Orange",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Citrus Soda",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Green Apple",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Ice",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Lemon",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Lime",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Peach",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": 35.76,
+    "vg": 56.0,
+    "totalFlavouring": 4.25,
+    "description": "Icy lemon lime mixture.",
+    "author": "Do You Lime Me?",
+    "recipeName": "Laura"
+  },
+  {
+    "ageNotes": "Best after a week of steeping.",
+    "flavourNotes": "This is one I fall back to when just simply craving a good nuttyjuice. I hope you will enjoy it too.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Banana",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Caramel",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Peanut Butter",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Vanilla Bean",
+        "percent": 0.21,
+        "grams": 0.21
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.01,
+    "description": "Sweet mix of banana, caramel, and peanut butter.",
+    "author": "Donkey Kong",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Candy Roll",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Guanabana",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Peach Gummy",
+        "percent": 3.0,
+        "grams": 3.0
+      }
+    ],
+    "pg": 18.0,
+    "vg": 70.0,
+    "totalFlavouring": 6.0,
+    "description": "Tropical fruity candy.",
+    "author": "Dmilin",
+    "recipeName": "Guana Don’t Cha Wanna"
+  },
+  {
+    "ageNotes": "If you like strong melon SNV. After day 1 it mellows outand turns into this beautiful honeydew melon inhale thatis a mouth full of pear and berry melon.",
+    "myNotes": "xxx",
+    "flavourNotes": "This is a must mix if you like melon. FLV Honeydew is theabsolute best melon! It’s like a burst of wonderful and I feelit’s one of my best mixes so far!!",
+    "flavours": [
+      {
+        "name": "Blackberry Blossom",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Honeydew",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Melon Rind",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Pear",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Red Raspberry",
+        "percent": 0.5,
+        "grams": 0.5
+      }
+    ],
+    "pg": 23.3,
+    "vg": 70.0,
+    "totalFlavouring": 3.7,
+    "author": "BlossomJazzy_girl",
+    "recipeName": "Honeytdew"
+  },
+
+  {
+    "ageNotes": "SNV",
+    "flavourNotes": "Add any sour additive to make it more like a lemon head.",
+
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Candy Roll",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Lemonade",
+        "percent": 1.2,
+        "grams": 1.2
+      },
+      {
+        "name": "Lime",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Sweet Cream",
+        "percent": 0.3,
+        "grams": 0.3
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.2,
+        "grams": 0.2
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.5,
+    "description": "Sweet candy lemon vape.",
+    "author": "Paine Vapes",
+    "recipeName": "Lemon Goodness"
+  },
+  {
+    "ageNotes": "1 day",
+    "flavourNotes": "FLV Honeydew has got to be the best fresh Honeydew onthe market. ... FLV Cantaloupe is added both for creaminessand for filling out the Honeydew in terms of body. FLVWatermelon was included here to bring out that “freshfruit salad” flavour. ... FLV Wild Melon, I never get sick ofthis flavouring – very fresh tasting and not too strong at thispercentage. ... FLV’s Rose Essense seems to have infuseditself inside of the rind layer somehow. Combined [with FLVMelon Rind], they produce a “wet” feel. ... FLV Sweetness isthe best sweetener for this mix.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cantaloupe",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Honeydew",
+        "percent": 0.7,
+        "grams": 0.7
+      },
+      {
+        "name": "Melon Rind",
+        "percent": 0.35,
+        "grams": 0.35
+      },
+      {
+        "name": "Rose Essence",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Sweetness",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Watermelon",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Wild Melon",
+        "percent": 1.2,
+        "grams": 1.2
+      }
+    ],
+    "pg": 21.35,
+    "vg": 70.0,
+    "totalFlavouring": 5.65,
+    "description": "A creamy melon mix with the right touch of rind to add authentic freshness.",
+    "author": "SixStrings952",
+    "recipeName": "Melrose"
+  },
+  {
+    "ageNotes": "2-5 days steep",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Blood Orange",
+        "percent": 0.1,
+        "grams": 0.1
+      },
+      {
+        "name": "Milk and Honey",
+        "percent": 0.3,
+        "grams": 0.3
+      },
+      {
+        "name": "Peach",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Pear",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Sweet Coconut",
+        "percent": 0.3,
+        "grams": 0.3
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 1.8,
+    "description": "Creamy peach with coconut accents.",
+    "author": "Paine Vapes",
+    "recipeName": "Milky Peach"
+  },
+  {
+    "ageNotes": "Allow for a 3 d\"ay steep time.",
+    "flavourNotes": "Those that know me, know about this recipe. It has a longhistory in vaping, and has adapted over the years...for myfriends, thank you, and for everyone else...try this one, lookingfor that blue raspberry happiness. This is it.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Blueberry",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Cotton Candy",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Marshmallow",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Red Raspberry",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.21,
+        "grams": 0.21
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.22,
+    "description": "Sweet blue raspberry vape.",
+    "author": "OG Berry",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "3 days",
+    "flavourNotes": "This is very smooth and creamy even though it has a low % itpacks a punch, no pun intended.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Milk and Honey",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Papaya Punch",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Sweet Coconut",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.5,
+        "grams": 0.5
+      }
+    ],
+    "pg": 9.45,
+    "vg": 83.8,
+    "totalFlavouring": 3.75,
+    "description": "Smooth and creamy papaya coconut punch.",
+    "author": "G3N0CID3",
+    "recipeName": "Papaya-coconut Dream Cream"
+  },
+  {
+    "ageNotes": "Needs a week or so steep.",
+    "flavourNotes": "Love this recipe. Such a great juicy peach taste!... I mix it at 70v.g/30p.g.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cranberry",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Peach",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Peach Gummy",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.5,
+        "grams": 0.5
+      }
+    ],
+    "pg": 28.5,
+    "vg": 66.5,
+    "totalFlavouring": 5.0,
+    "description": "Juicy sweet peach vape.",
+    "author": "Spaced76",
+    "recipeName": "Peach Drip"
+  },
+  {
+    "ageNotes": "SNV",
+    "flavourNotes": "Very yummy. I taste apricot blossom with a delicious juciness!This is a snv but will develop more as the flavours steep a fewdays. Mix em if you have em. Its a perfect vape for spring.Day 2 the marshmallow took over so I decreased it from 1.00to 0.20, added red raspberry to add depth and increased theapricot a smidge. Wonderul with the changes!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Apricot",
+        "percent": 1.2,
+        "grams": 1.2
+      },
+      {
+        "name": "Blackberry Blossom",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Jammy Berry",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Marshmallow Vanilla",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Pear",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Red Raspberry",
+        "percent": 0.6,
+        "grams": 0.6
+      }
+    ],
+    "pg": 22.9,
+    "vg": 70.0,
+    "totalFlavouring": 4.1,
+    "description": "Apricot blossom with a delicious berry juiciness.",
+    "author": "Jazzy_girl",
+    "recipeName": "Pearcot Berry"
+  },
+  {
+    "ageNotes": "Steep overnight. At least. 3 days is best.",
+    "flavourNotes": "I love Greek Yogurt, it is yogurt that has been strained toremove most of its whey, resulting in a thicker consistencythan unstrained yogurt, while preserving yogurt’s distinctivesour taste. In this recipe, I add FLV Brie Cheese incombination with the Greek Yogurt, to boost that sourtaste. In my opinion, Brie Cheese is a hidden gem that canbe added to yogurt and cheesecakes just to add an extraauthenticity to certain recipes. If you like, you can add FLV Icefor a cooling effect and FLV Sweetness to your liking.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Brie Cheese",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Cream",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Greek Yogurt",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Nectarine",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Peach",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Persimmon",
+        "percent": 0.2,
+        "grams": 0.2
+      }
+    ],
+    "pg": 25.0,
+    "vg": 70.0,
+    "totalFlavouring": 3.0,
+    "description": "Peaches in greek yogurt.",
+    "author": "Tam_Vapes",
+    "recipeName": "ροδάκινο: Peach in Greek"
+  },
+  {
+    "ageNotes": "1 day or SNV",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Bubble Gum",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Grape",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Lime",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Marshmallow Vanilla",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.5,
+        "grams": 0.5
+      }
+    ],
+    "pg": 21.75,
+    "vg": 70.0,
+    "totalFlavouring": 5.25,
+    "description": "A sweet, in-your-face punch of a grape bubble gum.",
+    "author": "Daytime Frank",
+    "recipeName": "Purple Graze"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "This might look like too much, but really is a terrific mix. I havelearned over the years with FLV, to keep things low, as in totalamounts. Between 3-4% this is a smooth fun candy blendand one I keep going back to. Light but heavy, sweet and iteven has that root beer candy taste! FOAMY!!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Butterscotch",
+        "percent": 1.2,
+        "grams": 1.2
+      },
+      {
+        "name": "Cream",
+        "percent": 1.4,
+        "grams": 1.4
+      },
+      {
+        "name": "Root Beer",
+        "percent": 1.4,
+        "grams": 1.4
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 4.0,
+    "description": "Barrel-shaped root beer candies.",
+    "author": "Root Beer Barrels",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "3 days",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Bubble Gum",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Smooth Vanilla",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Spearmint",
+        "percent": 3.0,
+        "grams": 3.0
+      }
+    ],
+    "pg": 41.0,
+    "vg": 50.0,
+    "totalFlavouring": 6.0,
+    "description": "A simple spearmint gum recipe designed for pod vapes.",
+    "author": "W3STON",
+    "recipeName": "Spearmint Gum (Pod/MTL)"
+  },
+  {
+    "ageNotes": "Let sit for 3-5 days and make sure youenjoy this one, before going big...",
+    "flavourNotes": "Watermelon starburst, another one of my favorites!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Alpine Strawberry",
+        "percent": 0.14,
+        "grams": 0.14
+      },
+      {
+        "name": "Candy Roll",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Lemon",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Wild Melon",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 1.96,
+    "description": "Juicy watermelon starburst.",
+    "author": "Star Broke",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "Let this one sit for about 5 days, the magic will come thru!",
+    "flavourNotes": "Just like those cool bars, this turned out way better thanI could have expected. You get the treats, the creamystrawberry and the vanilla beans helps to make the totalflavour oh so good!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Marshmallow Treats",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Popcorn",
+        "percent": 0.28,
+        "grams": 0.28
+      },
+      {
+        "name": "Strawberry",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Vanilla Bean",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Vanilla Custard",
+        "percent": 0.4,
+        "grams": 0.4
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.29,
+    "description": "Strawbeery cream treat.",
+    "author": "Strawberry, Shorty",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "Great shake and vape...but give it a week and it is delicious.",
+    "flavourNotes": "This mix just makes me think of summer...even in these colddays. The Alpine Strawberry makes this mix pop...it almosttaste like a raspberry jolly rancher.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Alpine Strawberry",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Boysenberry",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Raspberry",
+        "percent": 3.0,
+        "grams": 3.0
+      },
+      {
+        "name": "Vanilla Bean",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 2.0,
+        "grams": 2.0
+      }
+    ],
+    "pg": 17.5,
+    "vg": 70.0,
+    "totalFlavouring": 9.5,
+    "description": "Fruity summer vape with vanilla accents.",
+    "author": "Cl0udchaserxx",
+    "recipeName": "Summer Fun"
+  },
+  {
+    "ageNotes": "5 days",
+    "flavourNotes": "One of my favorite summer beverages is an ice cold glassof freshly infused water. My go-to is easily a watermelon,cucumber, mint concoction, which I can now partake inyear-round, thanks to this recipe. It is light, refreshing, andwell-balanced. Great for giving your tastebuds a break,or as an ADV.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cucumber",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Ice",
+        "percent": 0.13,
+        "grams": 0.13
+      },
+      {
+        "name": "Spearmint",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.13,
+        "grams": 0.13
+      },
+      {
+        "name": "Watermelon",
+        "percent": 2.75,
+        "grams": 2.75
+      },
+      {
+        "name": "Wild Melon",
+        "percent": 1.25,
+        "grams": 1.25
+      }
+    ],
+    "pg": 11.73,
+    "vg": 80.0,
+    "totalFlavouring": 5.26,
+    "description": "Mortal Coil",
+    "author": "Ice cold glass of water infused with watermelon, cucumber, and mint.",
+    "recipeName": "Summer Melon Cooler"
+  },
+  {
+    "ageNotes": "1 day (SNV)",
+    "flavourNotes": "Red drink profile submission for Mixin Vixens. I mix low soyou will more than likely have to increase (up to double) mypercentages.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Candy Roll",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Tropical Punch",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Watermelon",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.0,
+    "description": "Fruity red drink.",
+    "author": "Rin Vapes",
+    "recipeName": "Summer Punch"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "Peaches are in season, [which means] it is Lemonade time,so let’s combine these two and have a fantastic PeachSmoothie. Apricot provides juiciness and boosts the peach.Smoothie Base has a fantastic Lemon and Yogurt taste,this works great with the Lemonade. Persimmon has somegreat sweet, tart, juicy flavour, this helps with the peach and toenhance the tartness of FLV Lemonade which is a traditionallemonade. ... The star is FLV Peach, it is an amazing Peach,that just needs a little boost with juiciness. Feel free to omitthe Ice, or add more.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Apricot",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Ice",
+        "percent": 0.12,
+        "grams": 0.12
+      },
+      {
+        "name": "Lemonade",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Lime",
+        "percent": 0.12,
+        "grams": 0.12
+      },
+      {
+        "name": "Peach",
+        "percent": 1.2,
+        "grams": 1.2
+      },
+      {
+        "name": "Persimmon",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Smoothie Base",
+        "percent": 2.0,
+        "grams": 2.0
+      }
+    ],
+    "pg": 22.57,
+    "vg": 70.0,
+    "totalFlavouring": 5.44,
+    "description": "A cool peach lemonade smoothie, perfect for summer heat.",
+    "author": "Summer with GA Peaches",
+    "recipeName": "Tam_Vapes"
+  },
+  {
+    "ageNotes": "Allow a week to steep for taste testing.",
+    "flavourNotes": "This is it, the famous Raspberry Toffee Maid.. will remind youof a simular candy, delish! You can omit the raspberries fora plain version or sub them out for: Blood Orange .20% andTangerine .14% to create the orange one.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Butterscotch",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Caramel",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Chocolate Deutsch",
+        "percent": 0.14,
+        "grams": 0.14
+      },
+      {
+        "name": "Frosting",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Marshmallow",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Raspberry",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Red Raspberry",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Smooth Vanilla",
+        "percent": 0.14,
+        "grams": 0.14
+      },
+      {
+        "name": "Toffee",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 0.4,
+        "grams": 0.4
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 3.48,
+    "description": "Raspberry toffee candy vape.",
+    "author": "Toffee Maid",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "The best thing about this recipe is thatyou can literally shake and vape.",
+    "flavourNotes": "This is a delicious recipe. It has become an all day vape. Theway the wild melon and sweet coconut come together in adifferent but tasty way. You get the melon... but wait, what justhappened? It’s the sweet coconut. It mingles with the melonin such a way that it makes a whole new flavour. The milk andhoney adds intensity, while the cream smooths the wholething out. It’s good, really good. I can’t stop vaping it.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cream",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Milk and Honey",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Sweet Coconut",
+        "percent": 0.82,
+        "grams": 0.82
+      },
+      {
+        "name": "Wild Melon",
+        "percent": 2.0,
+        "grams": 2.0
+      }
+    ],
+    "pg": 18.68,
+    "vg": 74.0,
+    "totalFlavouring": 5.32,
+    "description": "Smooth Wild Melon and Sweet Coconut mix.",
+    "author": "Dan the Man",
+    "recipeName": "Untamed Melon’s"
+  },
+  {
+    "ageNotes": "3 days or SNV",
+    "flavourNotes": "Modeled from those delicious, mouth-watering candiedwatermelon sweets that have a slight sour sugar coatingaround them. I know the percentages are low, but trust me,you don’t wanna sleep on this one!!!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Candy Roll",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Cotton Candy",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Lime",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Raspberry",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Red Raspberry",
+        "percent": 0.45,
+        "grams": 0.45
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Watermelon",
+        "percent": 0.9,
+        "grams": 0.9
+      },
+      {
+        "name": "Wild Melon",
+        "percent": 0.5,
+        "grams": 0.5
+      }
+    ],
+    "pg": 2.75,
+    "vg": 90.0,
+    "totalFlavouring": 4.25,
+    "description": "The ultimate W M D (Watermelon of Mass Destruction).",
+    "author": "W M D",
+    "recipeName": "Furious Mixer"
+  },
+  {
+    "ageNotes": "Best after 5 days.. but you can try it out sooner than that!",
+    "flavourNotes": "Have a piece!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Candy Roll",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Green Apple",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Mango",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Strawberry",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Watermelon",
+        "percent": 0.8,
+        "grams": 0.8
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 1.81,
+    "description": "Juicy watermelon candy vape.",
+    "author": "Watermelon Candy",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "3 days",
+    "flavourNotes": "I have been working on recipes for restricted air flowdevices.... I have found that traditional methods “normalflavour percentages” just are not effective. This is where thepotency of Flavourah picks up the slack where others lack.Pushing Flavourah Flavours beyond their limits makes recipedevelopment a no brainer. It may be a little unconventionalbut it is fun to take my mixing adventures a step farther.This recipe is intended for restricted air flow systems around60v.g/40p.g. It is not intended for open systems and sub-ohm.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Raspberry",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Red Apple",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Watermelon",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Wild Melon",
+        "percent": 4.0,
+        "grams": 4.0
+      }
+    ],
+    "pg": 27.5,
+    "vg": 60.0,
+    "totalFlavouring": 9.5,
+    "description": "Wild melon fruit salad pod vape.",
+    "author": "Wild Melon Salad",
+    "recipeName": "Shakenvape007"
+  },
+  {
+    "ageNotes": "3 days or SNV",
+    "flavourNotes": "A cinnamon honey Greek Yogurt. Rich Cinnamon is 1 dropper 30ml of e-liquid. Sweeten to taste.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Greek Yogurt",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Milk and Honey",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Rich Cinnamon",
+        "percent": 0.01,
+        "grams": 0.01
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.76,
+    "description": "A cinnamon honey Greek Yogurt.",
+    "author": "ANGER",
+    "recipeName": "Freshepies"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "This is my Flavourah recipe for the Las Vegas competion.I wanted to try and recreate one of my older Ads that was aBlueberry cranberry yogurt...But I decided to throw a twist inthe vape. I added in the Berry Blend, and it blended into a verynice, mysteriously delicious berry yogurt. I hope you like it!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Avocado",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Berry Blend",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Blueberry Muffin",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Boysenberry",
+        "percent": 0.35,
+        "grams": 0.35
+      },
+      {
+        "name": "Brie Cheese",
+        "percent": 0.35,
+        "grams": 0.35
+      },
+      {
+        "name": "Cranberry",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Graham Cracker",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Greek Yogurt",
+        "percent": 2.0,
+        "grams": 2.0
+      }
+    ],
+    "pg": null,
+    "vg": 90.8,
+    "totalFlavouring": 6.2,
+    "description": "Mysteriously delicious berry yogurt.",
+    "author": "The Vaping Surveyor",
+    "recipeName": "Berry Yogurt"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Berry Blend",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Berry Cheesecake",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Blueberry Muffin",
+        "percent": 3.5,
+        "grams": 3.5
+      }
+    ],
+    "pg": 18.0,
+    "vg": 70.0,
+    "totalFlavouring": 6.0,
+    "description": "Imagine a cheesecake with a blueberry muffin crust and covered in berries.",
+    "author": "Blueberry Muffin Cheesecake",
+    "recipeName": "TattooedVaper"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Apple Filling",
+        "percent": 2.5,
+        "grams": 2.5
+      },
+      {
+        "name": "Chocolate Deutsch",
+        "percent": 0.25,
+        "grams": 0.3
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 2.0,
+        "grams": 2.0
+      }
+    ],
+    "pg": 25.3,
+    "vg": 70.0,
+    "totalFlavouring": 4.75,
+    "description": "Chocolate apple vape.",
+    "author": "Benoz",
+    "recipeName": "Chapple Pudding"
+  },
+  {
+    "ageNotes": "Best after 10 d\"ays.",
+    "flavourNotes": "Used FLV Sweet Dough and FLV Cinnamon Crunch witha pinch of FLV Cupcake Batter to soften and moisten thebottom layer. The cinnamon notes [make you wish] it wasChristmas already. ... FLV Cranberry, FLV Cheesecake, andFLV Marshmallow to create the cheesecake filling, light andfluffy. I used FLV Sweet Cream and FLV Frosting for the toplayer, just to add a light creamy vanilla and candied touchto this recipe. [Note: add Sweetness @1% for a sweeterdessert.] The FLV Cranberry, a sweet, ocean spray craisinlike cranberry never get overhand in this mix, it just lingersin the background....",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cheesecake",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Cinnamon Crunch",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Cranberry",
+        "percent": 1.25,
+        "grams": 1.25
+      },
+      {
+        "name": "Cupcake Batter",
+        "percent": 0.15,
+        "grams": 0.15
+      },
+      {
+        "name": "Frosting",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Marshmallow",
+        "percent": 1.25,
+        "grams": 1.25
+      },
+      {
+        "name": "Sweet Cream",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Sweet Dough",
+        "percent": 0.5,
+        "grams": 0.5
+      }
+    ],
+    "pg": 20.1,
+    "vg": 70.0,
+    "totalFlavouring": 6.9,
+    "description": "Cinnamon-filled creamy cranberry cheesecake. Perfect for the holidays.",
+    "author": "Cranberry Cheesecake",
+    "recipeName": "Sejouced"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Berry Blend",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Berry Cheesecake",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Blueberry Muffin",
+        "percent": 3.5,
+        "grams": 3.5
+      },
+      {
+        "name": "Cream",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": 20.5,
+    "vg": 67.5,
+    "totalFlavouring": 7.0,
+    "description": "Creamy cheesecake with a berry muffin twist.",
+    "author": "TattooedVaper",
+    "recipeName": "Creamy Blueberry Muffin Cheesecake"
+  },
+  {
+    "ageNotes": "Been on the shelf for awhile, no degradation in taste.Steep at least 5 days, gets better with time.",
+    "flavourNotes": "I used some of the finest aromas made available by FLV tocreate this smooth, slightly sour and vanilla rich vape recipe.The base ingredient is FLV Greek Yogurt, upped the % tomake it stand out from the vanillas used in the recipe, FLVMarshmallow Vanilla makes this mix so fluffy, while the comboFLV Vanilla Smooth and a little FLV Vanilla Pudding createa rich and full bodied vanilla taste. ... Finally added someSweetness and topped the mix with my all-time favouritehoney, FLV Honey Bee.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Greek Yogurt",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Honey Bee",
+        "percent": 0.3,
+        "grams": 0.3
+      },
+      {
+        "name": "Marshmallow Vanilla",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Smooth Vanilla",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 0.75,
+        "grams": 0.75
+      }
+    ],
+    "pg": 22.25,
+    "vg": 70.0,
+    "totalFlavouring": 4.75,
+    "description": "Lovely creamy vanilla greek yogurt, topped with Honey Bee.",
+    "author": "Creamy Greek Vanilla Yogurt",
+    "recipeName": "Sejouced"
+  },
+  {
+    "ageNotes": "SNV – 2 days",
+    "flavourNotes": "FLV White Chocolate was added at a low percentage toutilize its’ “buttery” quality. ... I didn’t want any white chocolateflavour...just the buttery nature of the concentrate. ... FLVMarshmallow Vanilla ... was added for a boost in vanilla andto provide some fuller body .... FLV Sweetness: 1.25% of thisheavenly stuff will NOT gunk your coils. In addition, its trulythe best sweetener out there! ... You can’t sub this out forthat coil-gunking crap because FLV Sweetness makes thepudding feel inherently sweet .... FLV Vanilla Pudding (I savedthe best flavouring for last) is an outstanding flavour....",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Marshmallow Vanilla",
+        "percent": 0.45,
+        "grams": 0.45
+      },
+      {
+        "name": "Sweetness",
+        "percent": 1.25,
+        "grams": 1.25
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 2.75,
+        "grams": 2.75
+      },
+      {
+        "name": "White Chocolate",
+        "percent": 0.7,
+        "grams": 0.7
+      }
+    ],
+    "pg": 6.85,
+    "vg": 85.0,
+    "totalFlavouring": 5.15,
+    "description": "A smooth, thick, sweet instant vanilla pudding mix.",
+    "author": "SixStrings952",
+    "recipeName": "Dat Püd"
+  },
+  {
+    "ageNotes": "Must let this steep for 3 days.",
+    "flavourNotes": "This is not a floral vape, but not figgy either. This is a beautifulPudding with Rose Water Caramel and Figs. This is one ofthe concept ideas DIY Down Under had in round 2 of themix-off competition with The Fog Vlog. I have taken the ideaand tweaked it a bit more.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Caramel",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Cream",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Fig",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Jammy Berry",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Rose Essence",
+        "percent": 1.2,
+        "grams": 1.2
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "White Chocolate",
+        "percent": 0.2,
+        "grams": 0.2
+      }
+    ],
+    "pg": 23.2,
+    "vg": 70.0,
+    "totalFlavouring": 3.8,
+    "description": "Pudding with accents of rose water, caramel, and figs.",
+    "author": "Tam_Vapes",
+    "recipeName": "Fig A Rose Pudding"
+  },
+  {
+    "ageNotes": "12 days",
+    "flavourNotes": "I sometimes need a fruit vape and this one is easy to makeand don’t take forever to steep.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Berry Blend",
+        "percent": 2.5,
+        "grams": 2.5
+      },
+      {
+        "name": "Cheesecake",
+        "percent": 1.75,
+        "grams": 1.75
+      },
+      {
+        "name": "Cream",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Frosting",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Raspberry",
+        "percent": 1.25,
+        "grams": 1.25
+      }
+    ],
+    "pg": 15.5,
+    "vg": 74.0,
+    "totalFlavouring": 8.5,
+    "description": "Fruity berry cheesecake vape.",
+    "author": "Dan the Man",
+    "recipeName": "Flavourah’s Berry Cheesecake"
+  },
+  {
+    "ageNotes": "2 weeks",
+    "flavourNotes": "This is hands down the best granola I’ve ever made. The FLVGranola and Crunch Cereal ingredients actually make thisgranola stand out cause it tastes like granola. Every layerhas a different seasoning/spice/texture. This mix is awesome.The Cranberry/Fig flavoured granola topped with the thickertexture and tangier flavour from Greek Yogurt. Sweetened withHoney Bee, this granola is so good.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cranberry",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Crunch Cereal",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Granola",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Greek Yogurt",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Honey Bee",
+        "percent": 0.1,
+        "grams": 0.1
+      },
+      {
+        "name": "Sweet Cream",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Sweet Fig",
+        "percent": 0.5,
+        "grams": 0.5
+      }
+    ],
+    "pg": 20.65,
+    "vg": 70.0,
+    "totalFlavouring": 6.35,
+    "description": "Slightly tangy cranberry and fig flavoured granola mix.",
+    "author": "Granola Bay",
+    "recipeName": "Sejouced"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "The pound cake serves as a dense and sugary base.I added the custard and pudding to reinforce the vanillaundertones that sometimes come with this cake.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Macaroon",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Marshmallow Vanilla",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Pound Cake",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Vanilla Custard",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 0.5,
+        "grams": 0.5
+      }
+    ],
+    "pg": 36.76,
+    "vg": 56.0,
+    "totalFlavouring": 3.25,
+    "description": "Creamy, nutty pound cake.",
+    "author": "I’m A Little Nutty",
+    "recipeName": "Laura"
+  },
+  {
+    "ageNotes": "Best after 3 days and even better in a week.",
+    "flavourNotes": "Eisia Tea brings this one all together.. its like green tea icecream meets the melons. Try it out and see.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cantaloupe",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Eisai Tea",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Ice",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Sweet Coconut",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Vanilla Bean",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Wild Melon",
+        "percent": 0.8,
+        "grams": 0.8
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 3.43,
+    "description": "Melon matcha ice cream.",
+    "author": "Smoky Blue",
+    "recipeName": "Island Ice Cream"
+  },
+
+  {
+    "ageNotes": "3 days",
+    "flavourNotes": "I want to preface this by saying I have never been to Japanand I have never had a Macha ice cream, so the probabilityof this being authentic is probably pretty low. It is howeververy yummy! What I could read about macha ice cream is that itis a green tea ice cream with a hint of vanilla. I tried tocapture that in this recipe. I used the Eisai Tea from Flavourahas the base for the green tea. I added a bit of vanilla to itand some",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cream",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Eisai Tea",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Marshmallow Vanilla",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Smooth Vanilla",
+        "percent": 0.2,
+        "grams": 0.2
+      }
+    ],
+    "pg": 30,
+    "vg": 70,
+    "totalFlavouring": 3.7,
+    "description": "",
+    "recipeName": "Matcha Aisu Kurı¯mu"
+  },
+  {
+    "ageNotes": "3 days",
+    "flavourNotes": "This is a Peach Marshmallow dessert. The actual desert ismade with gelatin to make the peaches a bit more gelatinous.What better concentrate to build the peach layer with thanFLV Peach Gummy. To add to this layer, I use FLV Peach andFLV Nectarine. Then FLV Cream is used to combine the fruitstogether. And of course FLV Marshmallow for the yummymarshmallow. FLV Graham Cracker is used for the crust.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cream",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Graham Cracker",
+        "percent": 1.25,
+        "grams": 1.25
+      },
+      {
+        "name": "Marshmallow",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Nectarine",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Peach",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Peach Gummy",
+        "percent": 2.0,
+        "grams": 2.0
+      }
+    ],
+    "pg": 30,
+    "vg": 70,
+    "totalFlavouring": 6.0,
+    "description": "Peach marshmallow dessert.",
+    "author": "Pallow",
+    "recipeName": "Tam_Vapes"
+  },
+  {
+    "ageNotes": "10 days",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Caramel",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Chocolate Deutsch",
+        "percent": 1.25,
+        "grams": 1.25
+      },
+      {
+        "name": "Graham Cracker",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Peanut Butter",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": 9,
+    "vg": 91,
+    "totalFlavouring": 6.0,
+    "description": "Layered, creamy peanut butter.",
+    "author": "Freshepies",
+    "recipeName": "Peanut Butt’hurt"
+  },
+  {
+    "ageNotes": "5 days",
+    "flavourNotes": "I have been working on recipes for restricted air flowdevices... I have found that traditional methods “normalflavour percentages” just are not effective. This is where thepotency of Flavourah picks up the slack where others lack.Pushing Flavourah Flavours beyond there limits makes recipedevelopment a no brainer. It may be a little unconventionalbut it is fun to take my mixing adventures a step farther.This recipe is intended for restricted air flow systems around60v.g/40p.g. It is not intended for open systems or sub-ohm.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Creme De Menthe",
+        "percent": 6.0,
+        "grams": 6.0
+      },
+      {
+        "name": "Frosting",
+        "percent": 3.0,
+        "grams": 3.0
+      },
+      {
+        "name": "Peppermint",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.5,
+        "grams": 0.5
+      }
+    ],
+    "pg": 40,
+    "vg": 60,
+    "totalFlavouring": 10.25,
+    "description": "Creamy peppermint breeze.",
+    "author": "Peppermint Cream Breeze",
+    "recipeName": "Shakenvape007"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "A variation of my pumpkin pie using only FLV flavours.As I can’t do cinnamon, I omitted it from my recipe.If you have cinnamon I do believe this will give moreof the pumpkin spice flavour than I was able to get witheggnog since it’s more nutmeg.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Brie Cheese",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Cheesecake",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Cupcake Batter",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Eggnog",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Sweet Cream",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Vanilla Custard",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Yam",
+        "percent": 0.75,
+        "grams": 0.75
+      }
+    ],
+    "pg": 30,
+    "vg": 70,
+    "totalFlavouring": 4.65,
+    "description": "Delicious pumpkin pie vape.",
+    "author": "TOC’s Pumpkin Pie",
+    "recipeName": "AuthorMichelleHughes"
+  },
+  {
+    "ageNotes": "7 days",
+    "flavourNotes": "FLV Apple Filling is taking center stage in this profile alongwith alittle help from FLV Red Apple, to accentuate thatapple alittle bit, next up is that crust I figured GrahamCracker, Fried Dough and Granola got me what I wastrying to achieve, was lacking that buttery note I hadhoped to hit but was still pretty good.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Apple Filling",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Fried Dough",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Graham Cracker",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Granola",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Red Apple",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.25,
+        "grams": 0.25
+      }
+    ],
+    "pg": 40,
+    "vg": 60,
+    "totalFlavouring": 3.7,
+    "description": "Apple pie with delicious crust notes.",
+    "author": "DaddyKane91",
+    "recipeName": "Simply Apple Pie"
+  },
+  {
+    "ageNotes": "3 days",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Alpine Strawberry",
+        "percent": 0.05,
+        "grams": 0.05
+      },
+      {
+        "name": "Cream",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Smooth Vanilla",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Strawberry",
+        "percent": 0.13,
+        "grams": 0.13
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "White Chocolate",
+        "percent": 0.13,
+        "grams": 0.13
+      }
+    ],
+    "pg": null,
+    "vg": 99.0,
+    "totalFlavouring": 0.96,
+    "description": "Smooth and light strawberry mousse vape.",
+    "author": "Babayguurrll",
+    "recipeName": "Strawberry Mousse"
+  },
+  {
+    "ageNotes": "It melds beautifully after 7 days of steeping.",
+    "flavourNotes": "This is a strawberry forward liquid with middle notes of sweetcreamy greek yogurt. The sweet cream fills in the gaps nicelywith finish of the sweet strawberry and tangy yogurt.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Greek Yogurt",
+        "percent": 3.0,
+        "grams": 3.0
+      },
+      {
+        "name": "Strawberry",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Strawberry Smash",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Sweet Cream",
+        "percent": 1.5,
+        "grams": 1.5
+      }
+    ],
+    "pg": 21.5,
+    "vg": 70.0,
+    "totalFlavouring": 8.5,
+    "Description": "Strawberry vape with notes of sweet, creamy greek yogurt.",
+    "author": "RavenShadow",
+    "recipeName": "Strawberry Yogurt"
+  },
+  {
+    "ageNotes": "10 days",
+    "flavourNotes": "This is mild but flavourful - sweet but not too much. Whilethere’s nothing super exciting about it, it is a very pleasantvape. It does help to steep it a little while. The Passionfruit,Rainier Cherry, Raspberry, and Sugar Orchid form the basewith Milk and Honey and Cookie to back it up then a touchof Vanilla Bean and Frosting to round it out – and it works well.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cookie",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Frosting",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Milk and Honey",
+        "percent": 3.0,
+        "grams": 3.0
+      },
+      {
+        "name": "Passion Fruit",
+        "percent": 1.25,
+        "grams": 1.25
+      },
+      {
+        "name": "Rainier Cherry",
+        "percent": 1.4,
+        "grams": 1.4
+      },
+      {
+        "name": "Raspberry",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Sugar Orchid",
+        "percent": 1.55,
+        "grams": 1.55
+      },
+      {
+        "name": "Vanilla Bean",
+        "percent": 0.5,
+        "grams": 0.5
+      }
+    ],
+    "pg": 30,
+    "vg": 70,
+    "totalFlavouring": 11.6,
+    "description": "Milk and cookies with a tropical twist.",
+    "author": "SpicyGal",
+    "recipeName": "Tropical Milk and Cookies"
+  },
+  {
+    "ageNotes": "2 weeks",
+    "flavourNotes": "Very simple recipe, but delicious. It’s fairly straight-forward, I get the custard as the main flavouring with cream and vanillaexpanding on the flavour, cream and pudding help to addmore depth to the custard’s texture. I tried 5 different recipes(different percentages of these flavourings in each recipe) andthis is the one I enjoyed the most. (Each recipe was allowedat least 14 days to age.)",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cream",
+        "percent": 0.3,
+        "grams": 0.3
+      },
+      {
+        "name": "Vanilla Bean",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Vanilla Custard",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 1.5,
+        "grams": 1.5
+      }
+    ],
+    "pg": 15.71,
+    "vg": 78.5,
+    "totalFlavouring": 4.3,
+    "description": "Straightforward vanilla custard pudding.",
+    "author": "J.Z-strow",
+    "recipeName": "Vanilla Custard Pudding"
+  },
+
+  {
+    "ageNotes": "2 weeks",
+    "flavourNotes": "As they say, the proof is in the pudding. FLV Eggnog (thiseggnog is custard and spice and everything nice). FLVGingersnap (the dark sticky middle part of a ginger snap,molasses, ginger, and cookie). FLV Sweet Dough with hints ofbutterscotch and caramel with a solid, a heavy dough servesas a solid base full of spices and herbs. All this is suffusedwith a very rich FLV Vanilla Pudding. No Xmas vape without alittle bright, bold and sweet vanilla, this is where a few dropsSmooth Vanilla comes in for the smooth velvety notes. Xmasis the sweetest time of the year, don’t be afraid to sweetenthis mix with some Sweetness.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Eggnog",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Ginger Snap",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Smooth Vanilla",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Sweet Dough",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.65,
+        "grams": 0.65
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 4.25,
+        "grams": 4.25
+      }
+    ],
+    "pg": 30,
+    "vg": 70,
+    "totalFlavouring": 8.15,
+    "description": "Xmas pudding with gingersnap, eggnog, and velvety vanilla.",
+    "author": "Sejouced",
+    "recipeName": "Xmas Vanilla Pudding"
+  },
+  {
+    "ageNotes": "Let steep for one week!",
+    "flavourNotes": "Fantastic apple pie with hints of rum and raisins.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Apple Filling",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Greek Yogurt",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Green Apple",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Raisin Rum",
+        "percent": 0.08,
+        "grams": 0.08
+      },
+      {
+        "name": "Vanilla Custard",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 3.08,
+    "description": "Apple pie with hints of rum and raisins.",
+    "author": "Apple Pie Dessert",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "Sweet fresh apples with a touch of honey and cream...the cinnamon is laid back and you may or may not pick it up...if you do, I hope you will enjoy it as much as I have. Designedfor a friend.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Apple",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Cream",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Frosting",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Granny Smith",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Green Apple",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Honey Bee",
+        "percent": 0.04,
+        "grams": 0.04
+      },
+      {
+        "name": "Rich Cinnamon",
+        "percent": 0.04,
+        "grams": 0.04
+      },
+      {
+        "name": "Red Cinnamon",
+        "percent": 0.04,
+        "grams": 0.04
+      },
+      {
+        "name": "Whipped Cream",
+        "percent": 0.4,
+        "grams": 0.4
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.72,
+    "description": "Sweet fresh apples with a touch of honey and cream.",
+    "author": "Apples, Hunnie",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Carrot",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Papaya Punch",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Pound Cake",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Sugar Orchid",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Sweet Fig",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 3.0,
+        "grams": 3.0
+      }
+    ],
+    "pg": 22.49,
+    "vg": 67.0,
+    "totalFlavouring": 7.5,
+    "description": "Sweet cake with a fruity punch.",
+    "author": "Jesse-D",
+    "recipeName": "Awkward"
+  },
+  {
+    "ageNotes": "5 days",
+    "flavourNotes": "A yummy spiced raisin rum pudding.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Caramel",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Pound Cake",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Pumpkin Spice",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Raisin Rum",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Sweet Dough",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Sweet Fig",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 2.0,
+        "grams": 2.0
+      }
+    ],
+    "pg": 30,
+    "vg": 70,
+    "totalFlavouring": 7.0,
+    "description": "Spiced raisin rum pudding.",
+    "author": "Tam_Vapes",
+    "recipeName": "A Raisin in the Rum"
+  },
+  {
+    "ageNotes": "3 days",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Blueberry",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Blueberry Muffin",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Cotton Candy",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Cupcake Batter",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": 24.27,
+    "vg": 68.5,
+    "totalFlavouring": 4.25,
+    "description": "Explosion of apple flavour.",
+    "author": "Lil Miss",
+    "recipeName": "Battered Blueberries"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Black Currant",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Blueberry",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Boysenberry",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Graham Cracker",
+        "percent": 1.25,
+        "grams": 1.27
+      },
+      {
+        "name": "Lemonade",
+        "percent": 0.25,
+        "grams": 0.27
+      },
+      {
+        "name": "Whipped Cream",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": 21.5,
+    "vg": 70.0,
+    "totalFlavouring": 5.5,
+    "description": "N/A",
+    "author": "Jazzy_girl",
+    "recipeName": "Berry Smash"
+  },
+  {
+    "ageNotes": "It’s a SNV and is great right away if you like and up front Biscotti and calms down more on day 2-7 as the Custardstarts to blend with the Biscotti",
+    "flavourNotes": "All I can say here is this is my 1st all flavourah custard recipeand it’s very delicious!! I absolutely love the Custard and Biscotti together!! Add a touch of Cream and Cinnamon Crunch ‘n’ Milk and Honey and oooh la la it’s fabulous!!!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Biscotti",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Cinnamon Crunch",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Cream",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Custard",
+        "percent": 3.0,
+        "grams": 3.0
+      },
+      {
+        "name": "Milk and Honey",
+        "percent": 1.25,
+        "grams": 1.25
+      }
+    ],
+    "pg": 6.15,
+    "vg": 93.85,
+    "totalFlavouring": 6.15,
+    "description": "N/A",
+    "author": "Jazzy_girl",
+    "recipeName": "Biscotti Custard"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Blueberry Muffin",
+        "percent": 3.0,
+        "grams": 3.0
+      },
+      {
+        "name": "Boysenberry",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Caramel",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Cream",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Pound Cake",
+        "percent": 3.0,
+        "grams": 3.0
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 8.5,
+    "description": "Fluffy berry pound cake.",
+    "author": "AlbaCorey1",
+    "recipeName": "Blue Pound Cake"
+  },
+  {
+    "ageNotes": "It gets stronger with steep time so use caution.",
+    "flavourNotes": "Be prepared this recipe is a creamy bakery with a hint of fruit.A lot of the flavours are on the stronger side including: alpinestrawberry and smooth vanilla. The granola is authentic and raw.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Alpine Strawberry",
+        "percent": 0.25,
+        "grams": 0.27
+      },
+      {
+        "name": "Blueberry",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Graham Cracker",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Granola",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Raspberry",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Smooth Vanilla",
+        "percent": 0.25,
+        "grams": 0.27
+      },
+      {
+        "name": "Strawberry Cream",
+        "percent": 0.5,
+        "grams": 0.5
+      }
+    ],
+    "pg": 35.0,
+    "vg": 56.0,
+    "totalFlavouring": 5.0,
+    "description": "Creamy bakery with a hint of fruity goodness.",
+    "author": "Laura",
+    "recipeName": "Blueberry Granola"
+  },
+
+  {
+    "ageNotes": "This one needs a long sit time...try 3 weeks. after that tho,omg...one of the best bread puddings I have ever made!",
+    "flavourNotes": "This is my white whale, a light fluffy bready pudding, the kindyou might make that once a month on a Sunday, to relax withfriends and family. Trust me, it is worth the wait!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Caramel",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Cookie",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Cupcake Batter",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Pumpkin Spice",
+        "percent": 0.14,
+        "grams": 0.14
+      },
+      {
+        "name": "Raisin Rum",
+        "percent": 0.04,
+        "grams": 0.04
+      },
+      {
+        "name": "Sweet Dough",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Sweet Fig",
+        "percent": 0.14,
+        "grams": 0.14
+      },
+      {
+        "name": "Vanilla Custard",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 3.33,
+    "description": "Light, fluffy bread pudding.",
+    "author": "Bread Pudding",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "1 day – After minimal shelf time, this mix is readyto go. Shake and vape, if you want.",
+    "flavourNotes": "I have tried all kinds of combos with carrot, and whenI remembered the old bar trick to make a carrot cakeshot, it was on! I tinkered and twisted, even addedsome raisin rum to this...but I just couldn’t get anybetter than this recipe. It’s a true carrot cake tasteand the pound cake helps it all blend together...thecarrot peeps in every so often for added realism.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Butterscotch",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Carrot",
+        "percent": 0.07,
+        "grams": 0.07
+      },
+      {
+        "name": "Irish Cream",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Pound Cake",
+        "percent": 0.4,
+        "grams": 0.4
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.47,
+    "description": "Explosion of apple flavour.",
+    "author": "Carrot Cake",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "3 days",
+    "flavourNotes": "Yam; nice mild yam with a light taro note. Cinn crunch;like the dry cereal.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cinnamon Crunch",
+        "percent": 0.3,
+        "grams": 0.32
+      },
+      {
+        "name": "Cream",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Yam",
+        "percent": 0.9,
+        "grams": 0.92
+      }
+    ],
+    "pg": 28.2,
+    "vg": 70,
+    "totalFlavouring": 1.8,
+    "description": "Creamy cinnamon yam mix.",
+    "author": "Tuney",
+    "recipeName": "Cinn Crunch Yams"
+  },
+  {
+    "ageNotes": "5 days",
+    "flavourNotes": "Pound cake and blueberry muffin are the base of my cake.I wanted a little more richness and mouth feel so I addedluscious vanilla pudding to my cake base. Blood Orangewas the perfect orange flavour to infuse my cake base!I used Cranberry in conjunction with the sweet blueberryflavour to offset the orange. And last but not least, thetoffee crowns the whole thing with that thick, rich butterycaramelized sugar taste.",
+    "flavours": [
+      {
+        "name": "Blood Orange",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Blueberry Muffin",
+        "percent": 4.0,
+        "grams": 4.0
+      },
+      {
+        "name": "Cranberry",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Pound Cake",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Toffee",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 2.0,
+        "grams": 2.0
+      }
+    ],
+    "pg": 30,
+    "vg": 70,
+    "totalFlavouring": 10.25,
+    "description": "Buttery, caramelized cranberry-orange upside down cake vape.",
+    "author": "Hibbadoray",
+    "recipeName": "Cranberry Orange Upside Down Cake"
+  },
+  {
+    "ageNotes": "7 days",
+    "flavourNotes": "If you don’t like honey, you can leave out the Honey Bee.Pound Cake adds body to the mix while the White Chocolateadds fluff. The Popcorn adds the buttery goodness – it alsocan be left out.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cheesecake",
+        "percent": 0.45,
+        "grams": 0.45
+      },
+      {
+        "name": "Fried Dough",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Honey Bee",
+        "percent": 0.05,
+        "grams": 0.05
+      },
+      {
+        "name": "Lemon",
+        "percent": 0.1,
+        "grams": 0.1
+      },
+      {
+        "name": "Popcorn",
+        "percent": 0.05,
+        "grams": 0.05
+      },
+      {
+        "name": "Pound Cake",
+        "percent": 0.3,
+        "grams": 0.3
+      },
+      {
+        "name": "Rich Cinnamon",
+        "percent": 0.1,
+        "grams": 0.1
+      },
+      {
+        "name": "Sweet Dough",
+        "percent": 0.3,
+        "grams": 0.3
+      },
+      {
+        "name": "White Chocolate",
+        "percent": 0.25,
+        "grams": 0.25
+      }
+    ],
+    "pg": 7.0,
+    "vg": 88.2,
+    "totalFlavouring": 1.8,
+    "description": "Complex delicious monkey bread recipe.",
+    "author": "Paine Vapes",
+    "recipeName": "Crazy Monkey Bread"
+  },
+  {
+    "ageNotes": "3 days",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cream",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Maple Bar",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Smoked Butterscotch",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Sweet Dough",
+        "percent": 0.3,
+        "grams": 0.3
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Whipped Cream",
+        "percent": 0.3,
+        "grams": 0.3
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 4.5,
+    "description": "N/A",
+    "author": "Zylonality",
+    "recipeName": "Cream Filled Maple Bar"
+  },
+  {
+    "ageNotes": "2-3 weeks",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Coconut",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Peach",
+        "percent": 4.0,
+        "grams": 4.0
+      },
+      {
+        "name": "Vanilla Custard",
+        "percent": 2.5,
+        "grams": 2.5
+      }
+    ],
+    "pg": 23.0,
+    "vg": 70.0,
+    "totalFlavouring": 7.0,
+    "description": "Peachy custard with a touch of coconut.",
+    "author": "Custard (My Way)",
+    "recipeName": "Patagonico"
+  },
+  {
+    "ageNotes": "Mix this and let sit for around 7 days.",
+    "flavourNotes": "Best cinnamon sugar cookie ever!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cookie",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Crunch Cereal",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Greek Yogurt",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Marshmallow",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Red Cinnamon",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Sweet Cream",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.21,
+        "grams": 0.21
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.63,
+    "description": "Cinnamon sugar cookie mix.",
+    "author": "Firefly Cookies",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "Allow for a 1 week steep.",
+    "flavourNotes": "What all Monkeys love. Grab a spoon and dig in.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Banana",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Beer Nuts",
+        "percent": 0.07,
+        "grams": 0.07
+      },
+      {
+        "name": "Butterscotch",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Caramel",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Cream",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Honey Bee",
+        "percent": 0.04,
+        "grams": 0.04
+      },
+      {
+        "name": "Lime",
+        "percent": 0.07,
+        "grams": 0.07
+      },
+      {
+        "name": "Marshmallow",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Peanut Butter",
+        "percent": 0.07,
+        "grams": 0.07
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 1.69,
+    "description": "Caramelly sweet fried bananas.",
+    "author": "Fried Bananas",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "Give it a spin, but wait for about a week to keep allof your nutty taste buds happy. Best after 3 weeks.",
+    "flavourNotes": "This juice doesn’t take much to be an in your face nut juice!Unreleased anywhere else, this one was made for a friend ofmine that loves nuts. It’s smooth, creamy, with hints of barrelaged oak.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Bourbon",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Hazelnut",
+        "percent": 0.16,
+        "grams": 0.16
+      },
+      {
+        "name": "Oak Barrel",
+        "percent": 0.16,
+        "grams": 0.16
+      },
+      {
+        "name": "Pistachio",
+        "percent": 0.21,
+        "grams": 0.21
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 0.74,
+    "description": "Smooth, creamy nut-forward vape with hints of barrel-aged oak.",
+    "author": "King Nut",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "Cool mint chocolate cake, with creams and bourbon hints.Something to kick back on these nights after mucking aroundwith the holiday trimmings. I love vapes like these. Mellow butbold, smooth and relaxing. This is not something you want totake to parties, you will only come home with empty bottles!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Bourbon",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Chocolate Deutsch",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Cool Menthol",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Cream",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Greek Yogurt",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Milk Chocolate",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Oak Barrel",
+        "percent": 0.07,
+        "grams": 0.07
+      },
+      {
+        "name": "Red Velvet",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Smooth Vanilla",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Spearmint",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Vanilla Custard",
+        "percent": 0.21,
+        "grams": 0.21
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.93,
+    "description": "Cool mint chocolate cake, with hints of cream and bourbon.",
+    "author": "Mint Chocolate Cake",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "2 weeks",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cookie Dough",
+        "percent": 0.75,
+        "grams": 0.7
+      },
+      {
+        "name": "Eggnog",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Graham Cracker",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Milk and Honey",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Whipped Cream",
+        "percent": 0.75,
+        "grams": 0.7
+      }
+    ],
+    "pg": 21.7,
+    "vg": 70.0,
+    "totalFlavouring": 5.5,
+    "description": "Explosion of apple flavour.",
+    "author": "Sub Vapes",
+    "recipeName": "Noggin Pied"
+  },
+  {
+    "ageNotes": "This can be tried within a week, but much better after 2 weeks.",
+    "flavourNotes": "One of the best creamy oatmeal cookiesI had mixed to date. A must mix..",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cookie",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Cream",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Greek Yogurt",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Oatmeal Raisin",
+        "percent": 0.07,
+        "grams": 0.07
+      },
+      {
+        "name": "Rich Cinnamon",
+        "percent": 0.07,
+        "grams": 0.07
+      },
+      {
+        "name": "Smooth Vanilla",
+        "percent": 0.07,
+        "grams": 0.07
+      },
+      {
+        "name": "Vanilla Custard",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 3.22,
+    "description": "Creamy oatmeal cookie vape.",
+    "author": "Oatmeal Cream",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "Let sit for 5 days and enjoy.. alsoblends well with a pina colada!",
+    "flavourNotes": "Smooth creamy fluffy and nutty..",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Custard",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Honey Bee",
+        "percent": 0.07,
+        "grams": 0.07
+      },
+      {
+        "name": "Marshmallow",
+        "percent": 0.3,
+        "grams": 0.3
+      },
+      {
+        "name": "Pistachio",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.58,
+    "description": "Creamy pistachio pudding vape.",
+    "author": "Pistachio Pudding",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "4 weeks",
+    "flavourNotes": "Mixlife – Mixoff Jarvis v Jerry – Caramel corn cake pop withvanilla sugar orchid frosting. After this steeped for about 4weeks and even as it steeps further the sugar orchid turnsinto this lovely frosting note, the popcorn note is a bit lostin here, it’s more like just a caramel cake, but that wasn’ta bad thing, just wasn’t what I was going for. If you like lightflavours with a creamy cake taste this is a lovely recipe forjust that purpose.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cupcake Batter",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Frosting",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Popcorn",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Sugar Orchid",
+        "percent": 0.85,
+        "grams": 0.85
+      },
+      {
+        "name": "Sweetness",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 6.6,
+    "description": "Caramel corn cake pop with vanilla sugar orchid frosting.",
+    "author": "Jennifer Jarvis",
+    "recipeName": "Pop! Goes The Cake"
+  },
+  {
+    "ageNotes": "Allow to steep for 5 days before testing,but best after 3 weeks.",
+    "flavourNotes": "Created this for a spiced cake effect..goes very nicely with my morning coffee.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Butterscotch",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Caramel",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Pound Cake",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Pumpkin Spice",
+        "percent": 0.14,
+        "grams": 0.14
+      },
+      {
+        "name": "Sweet Coconut",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Sweet Cream",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Wheat",
+        "percent": 0.14,
+        "grams": 0.14
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.71,
+    "description": "Yummy spiced cake vape.",
+    "author": "Spiced Cake",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "Steeped this 14 days and in my honest opinion the perfectsteep time.",
+    "flavourNotes": "This ultimate fall and winter tart showcases the best fruitsof the season: apples and cranberries. ... Apple Filling,Apple Cranberry, and a twist of Lime Wedge are the fruitfilling for this dark and delicious vape. For the bakeryfoundation, I used Sweet Dough, Pastry Zest, and Granola,this combination with notes from cinnamon and crunchynuts makes this a very enjoyable mix where all aromasare perfectly layered. ... FLV Butterscotch has that perfectbuttery/brown sugar taste I liked for this mix and added someMarshmallow for a smooth mouthfeel.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Apple Cranberry",
+        "percent": 0.85,
+        "grams": 0.85
+      },
+      {
+        "name": "Apple Filling",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Butterscotch",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Granola",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Lime Wedge",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Marshmallow",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Pastry Zest",
+        "percent": 1.25,
+        "grams": 1.25
+      },
+      {
+        "name": "Sweet Dough",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.5,
+        "grams": 0.5
+      }
+    ],
+    "pg": 30,
+    "vg": 70,
+    "totalFlavouring": 5.85,
+    "description": "Apple and cranberry tarte tatin.",
+    "author": "Tatin",
+    "recipeName": "Sejouced"
+  },
+  {
+    "ageNotes": "1 day / SNV – This is a custard that doesn’t need a longsteep but still very delicious!",
+    "flavourNotes": "Infused with vanilla and a light rose essence.... It looks like itwouldn’t work but it’s very delicious custard with light vanillacandied rose. It can be an ADV for sure. If you mix it, let meknow your thoughts.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Marshmallow Vanilla",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Rose Essence",
+        "percent": 3.0,
+        "grams": 3.0
+      },
+      {
+        "name": "Vanilla Bean",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Vanilla Custard",
+        "percent": 3.0,
+        "grams": 3.0
+      }
+    ],
+    "pg": 7.5,
+    "vg": 92.5,
+    "totalFlavouring": 7.5,
+    "description": "Delicious custard infused with vanilla and a hint of light candied rose.",
+    "author": "Jazzy_girl",
+    "recipeName": "Vanilla Rose Custard"
+  },
+  {
+    "ageNotes": "Steep for 1-2 weeks.",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Blueberry",
+        "percent": 0.9,
+        "grams": 0.9
+      },
+      {
+        "name": "Blueberry Muffin",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Boysenberry",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Cherimoya",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Cinnamon Crunch",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Pound Cake",
+        "percent": 0.3,
+        "grams": 0.3
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.8,
+    "description": "Fresh berry muffin vape.",
+    "author": "Paine Vapes",
+    "recipeName": "Very Berry Muffin"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "This is the perfect oatmeal raisin cookie. I doubt I could makeit any better than this! It will melt in your mouth, it will makeothers take notice on what you vape, and do not be surprisedat a following of people, trying to find the cookies. Don’t beshy, share.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cookie",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Cotton Candy",
+        "percent": 0.14,
+        "grams": 0.14
+      },
+      {
+        "name": "Cream",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Greek Yogurt",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Macaroon",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Oatmeal Raisin",
+        "percent": 0.04,
+        "grams": 0.04
+      },
+      {
+        "name": "Pumpkin Spice",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 0.8,
+        "grams": 0.8
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.42,
+    "description": "Oatmeal raisin cookie vape.",
+    "author": "World Famous Oatmeal Cookies",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "Best after 5 days...",
+    "flavourNotes": "Excellent! The banana is not too much in your face,but it is very close.. the ice cream is done on layers,and between the smooth vanilla adding a bananasugar on your lips and the vanilla beans dancingon your tounge, this will become a fav.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Banana",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Caramel",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Cheesecake",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Cotton Candy",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Smooth Vanilla",
+        "percent": 0.14,
+        "grams": 0.14
+      },
+      {
+        "name": "Vanilla Bean",
+        "percent": 0.14,
+        "grams": 0.14
+      },
+      {
+        "name": "Vanilla Custard",
+        "percent": 0.8,
+        "grams": 0.8
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.51,
+    "description": "Creamy, smooth banana shake.",
+    "author": "Banana Shake",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "I’m really loving this as a adv! It’s slightly tart ‘n jammy sweet.Not getting smoothie yet, but very good and I’ll leave the %swhere they are.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Black Currant",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Ice",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Jammy Berry",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Smoothie Base",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": 27.33,
+    "vg": 70.0,
+    "totalFlavouring": 2.7,
+    "description": "Slightly tart and jammy sweet smoothie.",
+    "author": "Jazzy_girl",
+    "recipeName": "Berry Smoothie"
+  },
+  {
+    "ageNotes": "5 days – Vapeable after a few days. Been on the shelf forsome time, as with most juices this one changes for thebetter with longer steeps.",
+    "flavourNotes": "The FLV Berry Blend pairs beautiful with the FLV RoseEssence, FLV Back Bar Bitters adds a nice bitter touch andmixed with the FLV Juniper Gin and FLV Brut Bubble Wineand some FLV Honey Bee to bind the flavours and addingsome sweetness. I added a little FLV Sweetness sweetener.... The result is a delicate, aromatic sparkling wine cocktailvape that changes with every vape you take.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Back Bar Bitters",
+        "percent": 0.45,
+        "grams": 0.45
+      },
+      {
+        "name": "Berry Blend",
+        "percent": 0.7,
+        "grams": 0.7
+      },
+      {
+        "name": "Brut Bubble Wine",
+        "percent": 1.45,
+        "grams": 1.45
+      },
+      {
+        "name": "Honey Bee",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Juniper Gin",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Rose Essence",
+        "percent": 1.25,
+        "grams": 1.25
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.5,
+        "grams": 0.5
+      }
+    ],
+    "pg": 30,
+    "vg": 70,
+    "totalFlavouring": 5.35,
+    "description": "An exotic vape based on the “Birds & Bees” cocktail.",
+    "author": "Sejouced",
+    "recipeName": "Birds, Bees and Bubbles"
+  },
+  {
+    "ageNotes": "3 days",
+    "flavourNotes": "I wanted to do something different ... with FLV Bourbon.So this is a spiced bourbon whiskey with blueberries andvanilla. The FLV Bourbon is such an incredible authenticflavour, and I wanted primarily to showcase that, but Ialso wanted it to be vapeable, so by adding some freshblueberries and some creamy vanilla – it calms the bourbon“harshness” down, making it a soft but yet spiced vape.I’m really enjoying this.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Blueberry Muffin",
+        "percent": 5.0,
+        "grams": 5.0
+      },
+      {
+        "name": "Bourbon",
+        "percent": 3.0,
+        "grams": 3.0
+      },
+      {
+        "name": "Vanilla Bean",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 2.0,
+        "grams": 2.0
+      }
+    ],
+    "pg": 40,
+    "vg": 60,
+    "totalFlavouring": 10.5,
+    "description": "A spiced bourbon whiskey with blueberries and vanilla.",
+    "author": "Blourbon",
+    "recipeName": "Joe_Roots"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "Delicious eggnog, sweet, slight bourbon exhale andsomething you seriously should try. Yes, the lowpercentage works in this recipe.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Bourbon",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Cupcake Batter",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Eggnog",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Milk and Honey",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Sweet Cream",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": 30,
+    "vg": 70,
+    "totalFlavouring": 3.75,
+    "description": "Deliciously sweet eggnog with a hint of bourbon.",
+    "author": "TOC’s Bourbon Eggnog Cream",
+    "recipeName": "AuthorMichelleHughes"
+  },
+  {
+    "ageNotes": "5 days",
+    "flavourNotes": "This is Thai Chai Tea, which I love, but with a twist of Bobaadded, which in this case is caramelized tapioca balls. FLVThai Chai a flavouring that is perfect for making that ThaiChai Tea you get at the coffee shop. It has a nice amount ofBlack Tea flavour in it, but if you want more, feel free to someFLV Black Tea in a small %. FLV Cream is added to the teato harmonize flavours, add some creaminess, and add a bitof sweetness. The fun part was creating the Boba. ... I useFLV Starch Base for the starch aspect of the tapioca. Thenadding FLV Vanilla Pudding helped with the creamy aspect,and to finish off, I use FLV Toffee.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cream",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Starch Base",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Thai Chai",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Toffee",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 0.8,
+        "grams": 0.8
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.8,
+    "description": "Sweet and creamy boba chai tea.",
+    "author": "Boba Thai Chai Tea",
+    "recipeName": "Tam_Vapes"
+  },
+  {
+    "ageNotes": "2 days",
+    "flavourNotes": "The new cola from flavourah is excellent! I like this drink and ittranslates well in a vape.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Bourbon",
+        "percent": 1.2,
+        "grams": 1.2
+      },
+      {
+        "name": "Citrus Soda",
+        "percent": 0.3,
+        "grams": 0.32
+      },
+      {
+        "name": "Cola",
+        "percent": 2.1,
+        "grams": 2.12
+      }
+    ],
+    "pg": 26.4,
+    "vg": 70,
+    "totalFlavouring": 3.6,
+    "description": "Classic drink in vape form. A smooth vanilla cola vape.",
+    "author": "Tuney",
+    "recipeName": "Bourbon & Coke Hint of Citrus"
+  },
+  {
+    "ageNotes": "Give it at least two weeks to steep.",
+    "flavourNotes": "A smooth vanilla Cola. The vanilla pudding gives it a creamier,profile. The other two vanillas really back up the cola toproduce a refreshing drink recipe.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cola",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Smooth Vanilla",
+        "percent": 0.25,
+        "grams": 0.27
+      },
+      {
+        "name": "Vanilla Bean",
+        "percent": 0.25,
+        "grams": 0.27
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": 37.0,
+    "vg": 56.0,
+    "totalFlavouring": 3.0,
+    "description": "Cola Concoction",
+    "author": "Laura"
+  },
+  {
+    "ageNotes": "3 days – It all marries and blends together at about 1 weekand steeps out beautifully!!",
+    "flavourNotes": "Simple yet flavourful! ... The Green Tea is really great with theMilk and Honey! It gives the Green Tea a wonderful flavour andthe FLV Cream, which is one of my favorite creams, reallyhelps blend the flavours real well into a delicious creamedhoney. This is wonderful trio and has alot of flavour consideringthe percentage is so low. ... I didn’t add sweetener, it doesntneed it, it sweet and very bright!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cream",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Green Tea",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Milk and Honey",
+        "percent": 2.0,
+        "grams": 2.0
+      }
+    ],
+    "pg": 25.0,
+    "vg": 70.0,
+    "totalFlavouring": 5.0,
+    "description": "A wonderful green tea with a creamy honey note.",
+    "author": "Jazzy_girl",
+    "recipeName": "Creamed Honey Tea"
+  },
+  {
+    "ageNotes": "Best after 3 days.",
+    "flavourNotes": "Excellent Banana Orange and Strawberry, you could add afew drops of Morning Mimosa for a bubbly effect.. but easy,don’t over do things.. it’s fun to dance in the sun!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Alpine Strawberry",
+        "percent": 0.14,
+        "grams": 0.14
+      },
+      {
+        "name": "Banana",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Blood Orange",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Ice",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Pineapple",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Tangerine",
+        "percent": 0.21,
+        "grams": 0.21
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 1.98,
+    "description": "Banana, orange, strawberry drink vape.",
+    "author": "Dancing in the Sun",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "A mixed fruit soda surprise. I wanted a little bit of sour, a littlebit of sweet and a creamy soda. The Alpine Strawberry andCantaloupe act as a sweet and smooth finish for this recipe.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Alpine Strawberry",
+        "percent": 0.25,
+        "grams": 0.27
+      },
+      {
+        "name": "Blood Orange",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Cantaloupe",
+        "percent": 0.25,
+        "grams": 0.27
+      },
+      {
+        "name": "Citrus Soda",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Lemonade",
+        "percent": 0.5,
+        "grams": 0.5
+      }
+    ],
+    "pg": 37.0,
+    "vg": 56.0,
+    "totalFlavouring": 3.0,
+    "description": "Fancy Fizzy",
+    "author": "Laura"
+  },
+  {
+    "ageNotes": "Ready in about 3 days.",
+    "flavourNotes": "Fruity, yet airy ... one of my afternoon favs.. and for achange up.. add in some red tea @ 0.40% for a fruityhoney tea taste! totally delish!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cotton Candy",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Dragon Fruit",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Peach",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Pineapple",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Red Raspberry",
+        "percent": 0.21,
+        "grams": 0.21
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.22,
+    "description": "Fruity drink mix.",
+    "author": "Flaming Dragon",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "I was craving something like an iced cold orange juice and Ilove the kind that is chilled. The frosting provides the body,along with blood orange. The lime and pink guava sendsa spike thru it all and the smooth vanilla leaves an oj stylesweetness on your lips ;) Enjoy!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Blood Orange",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Cream",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Frosting",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Lime",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Pink Guava",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Smooth Vanilla",
+        "percent": 0.14,
+        "grams": 0.14
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.21,
+        "grams": 0.21
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.76,
+    "description": "Ice-cold orange juice with a twist.",
+    "author": "Frozen Morning",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "2 days (SNV)",
+    "flavourNotes": "Optional Sweetener and Cooling agent. Grapefruit Mimosa,using Pink Guava for grapefruit with the bitters to add extracitrus note. Citrus Soda as liquid base. Brut bubble wine forchampagne/ alcohol note.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Back Bar Bitters",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Brut Bubble Wine",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Citrus Soda",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Pink Guava",
+        "percent": 0.5,
+        "grams": 0.5
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.25,
+    "description": "Citrus filled fruity drink.",
+    "author": "Rin Vapes",
+    "recipeName": "Grapefruit Mimosa"
+  },
+  {
+    "ageNotes": "9 days",
+    "flavourNotes": "Experimental. Tastes pretty good five hours after mixing,get a light green tea up front with the apricot, cucumber,and apple cranberries mixing nicely on the back end.Not a strong flavour mix...but pleasant. Try it [and] let meknow what you think.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Apple Cranberry",
+        "percent": 0.75,
+        "grams": 0.77
+      },
+      {
+        "name": "Apricot",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Avocado",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Cream",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Cucumber",
+        "percent": 0.15,
+        "grams": 0.17
+      },
+      {
+        "name": "Eisai Tea",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Greek Yogurt",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Green Tea",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Red Apple",
+        "percent": 0.25,
+        "grams": 0.27
+      }
+    ],
+    "pg": 18.87,
+    "vg": 75.0,
+    "totalFlavouring": 6.15,
+    "description": "A light green tea with a bit of apricot, cucumber, and apple",
+    "author": "Gizzard Stew",
+    "recipeName": "Greenie"
+  },
+  {
+    "ageNotes": "5 days",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Apple Cider",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Cranberry",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Granny Smith",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Moscato",
+        "percent": 1.2,
+        "grams": 1.2
+      },
+      {
+        "name": "Sangria",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": 24.0,
+    "vg": 70.0,
+    "totalFlavouring": 4.0,
+    "description": "Apple cranberry sangria mix.",
+    "author": "Tam_Vapes",
+    "recipeName": "Holiday Sangria"
+  },
+  {
+    "ageNotes": "1 day",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Greek Yogurt",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Jammy Berry",
+        "percent": 1.25,
+        "grams": 1.25
+      },
+      {
+        "name": "Marshmallow Vanilla",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Raspberry",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.25,
+        "grams": 0.25
+      }
+    ],
+    "pg": 19.0,
+    "vg": 75.0,
+    "totalFlavouring": 3.0,
+    "description": "A simple berry smoothie.",
+    "author": "Shakenvape007",
+    "recipeName": "Jammy Berry Smoothie"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cream",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Root Beer",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": null,
+    "vg": 94.0,
+    "totalFlavouring": 4.0,
+    "description": "Root beer float mix.",
+    "author": "LIFA Float",
+    "recipeName": "LIFA Vapes"
+  },
+  {
+    "ageNotes": "3 days",
+    "flavourNotes": "For this recipe, I used FLV Mango, definitely one of myfavorites, for a realistic mouth feel mango. This creates adelicious creamy Mango forward smoothie. Mixed Berrytaste on the back end of vape. Feel free to add sweetenerto your liking.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Berry Blend",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Boysenberry",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Mango",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Smoothie Base",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Strawberry Cream",
+        "percent": 0.6,
+        "grams": 0.6
+      }
+    ],
+    "pg": 30,
+    "vg": 70,
+    "totalFlavouring": 4.4,
+    "description": "Creamy mango-forward smoothie.",
+    "author": "Tam_Vapes",
+    "recipeName": "Mango Berry Smoothie"
+  },
+  {
+    "ageNotes": "This can be shake and vaped, but a day or twowill make it better.",
+    "flavourNotes": "So I wanted to try recreate this “health tea” in vape form, andI think it’s pretty spot on. Ginger and lemongrass are said tohave many health benefits .... FLV Eisai Tea brings the greentea flavour, it’s slightly fruity, earthy and dry which is a perfectbase for this beverage. FLV Ginger is a relatively sweet gingersyrup, which is much needed here to get the balance rightas some of the other flavours can be a bit dry. FLV LemonGrass is slightly sharp but a spot on lemon grass flavour. ...FLV Honey Bee ... gives the tea a very very pleasant honeymothfeel and almost nectar type sweetness.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Eisai Tea",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Ginger",
+        "percent": 0.7,
+        "grams": 0.7
+      },
+      {
+        "name": "Honey Bee",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Lemon Grass",
+        "percent": 0.3,
+        "grams": 0.3
+      }
+    ],
+    "pg": 30,
+    "vg": 70,
+    "totalFlavouring": 2.2,
+    "description": "Ginger lemongrass honey tea.",
+    "author": "Medicine Brew",
+    "recipeName": "Staybert"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "FLV Citrus Soda the only flavour that gives me that “fizzy”feeling. I usually think it needs some help from another tangylemon lime flavour, but here I opted to use FLV Lemonadeinstead, to kind of sweeten it, rather than making it pop. ...FLV Wild Melon is just an incredible flavour by itself, a blendof many different melons all mashed together. I opted tomake the honeydew part even more prominent by adding FLVHoneydew ... FLV Cucumber was just some experiment I did,but I think it turned out great, as this flavour in particular has aquite distinct almost salty cucumber note to it.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Citrus Soda",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Cucumber",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Honeydew",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Lemonade",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Wild Melon",
+        "percent": 2.0,
+        "grams": 2.0
+      }
+    ],
+    "pg": 30,
+    "vg": 70,
+    "totalFlavouring": 6.5,
+    "description": "A fresh honeydew-forward melon soda.",
+    "author": "Staybert",
+    "recipeName": "Melon Soda"
+  },
+  {
+    "ageNotes": "Allow 3 days to let these flavours all come together for a partyin your mouth!",
+    "flavourNotes": "Cool blue! The taste on this one is amazing.. refreshing anddifferent, the lychee and sugar orchard bring an exotic tasteand one you will keep going back for.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Blueberry",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Coconut",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Ice",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Lychee",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Pineapple",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Sweet Coconut",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Sweet Cream",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Sugar Orchid",
+        "percent": 0.14,
+        "grams": 0.14
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 0.4,
+        "grams": 0.4
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 3.19,
+    "description": "Exotic and refreshing drink vape.",
+    "author": "Ocean Waters",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "Very nice on a late evening taste. The peaches blend wellwith the moscato leaving a trail on your tounge off the exhale.Not too tart and not too sweet, this will hit the spot for latenight parties or just relaxing with your hunni.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Moscato",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Peach",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Peach Gummy",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Pineapple",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Sweet Cream",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.21,
+        "grams": 0.21
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.82,
+    "description": "Tropical peach moscato vape.",
+    "author": "Peach Moscato",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "1 day or SNV",
+    "flavourNotes": "Raise a glass to this perfectly pink cocktail made from gin,lemonade, and grapefruit juice. Using Lime and Strawberry toaccent. Perfect for summer, and with FLV ICE, you can adjustamount you want in recipe. This is great in a pod. This wasreally good off the initial shake, but of course just as with anyjuice, will get better after a few days steep.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Alpine Strawberry",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Ice",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Juniper Gin",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Lemonade",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Lime",
+        "percent": 0.1,
+        "grams": 0.1
+      },
+      {
+        "name": "Pink Guava",
+        "percent": 0.8,
+        "grams": 0.8
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 4.1,
+    "description": "Pink cocktail with a strawberry lemonade twist.",
+    "author": "Tam_Vapes",
+    "recipeName": "Pink Gin"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Acai",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Alpine Strawberry",
+        "percent": 0.14,
+        "grams": 0.14
+      },
+      {
+        "name": "Blueberry",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Cool Menthol",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Cream",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Dragon Fruit",
+        "percent": 0.6,
+        "grams": 0.6
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.15,
+    "description": "Fruity poolside slushy.",
+    "author": "Poolside Slushy",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Eisai Tea",
+        "percent": 3.0,
+        "grams": 3.0
+      },
+      {
+        "name": "Milk and Honey",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Tangerine",
+        "percent": 0.5,
+        "grams": 0.5
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 4.5,
+    "description": "Matcha green tea with a tangerine accent.",
+    "author": "Folkart",
+    "recipeName": "Queen’s Tea"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Alpine Strawberry",
+        "percent": 0.12,
+        "grams": 0.12
+      },
+      {
+        "name": "Berry Blend",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Blood Orange",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Brut Bubble Wine",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Morning Mimosa",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": 23.87,
+    "vg": 70.0,
+    "totalFlavouring": 4.12,
+    "description": "Fruity, bubbly mimosa blend.",
+    "author": "Tam_Vapes",
+    "recipeName": "Rainbow Mimosa"
+  },
+  {
+    "ageNotes": "3 days or SNV",
+    "flavourNotes": "This recipe reminds me of a hipster homemade root beer Itried a few years ago in Bariloche, Argentina. FLV Root Beeris the best in its kind but for my profile I needed more bodyand sweetness. Flavourah Cream and Butterscotch togethercreate a rich caramel cream full of body and texture, and abit of FLV Milk Chocolate adds warmness and a subtle darknote. FLV Vanilla Bean is an idea I took from Thadentman andKopel and it works great to add a very natural vanillaand also boost the vanilla from other flavours. Salud!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Butterscotch",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Cream",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Milk Chocolate",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Root Beer",
+        "percent": 4.0,
+        "grams": 4.0
+      },
+      {
+        "name": "Vanilla Bean",
+        "percent": 0.75,
+        "grams": 0.75
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 7.45,
+    "description": "Flavourful homemade root beer vape.",
+    "author": "NaCHeF",
+    "recipeName": "Root Birra"
+  },
+  {
+    "ageNotes": "Allow for a 7 d\"ay steep.",
+    "flavourNotes": "It’s like the big tall guy in the back of the room.. yeah.. this ishis.. the one that watches for the first move, waiting patiently.You know how this one will go.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Bourbon",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Brulee",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Coffee",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Smooth Vanilla",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Vanilla Bean",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Whipped Cream",
+        "percent": 0.6,
+        "grams": 0.5
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.94,
+    "description": "Smooth vanilla brulee coffee, with a bourbon twist.",
+    "author": "Russian Dude",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "1 day or SNV",
+    "flavourNotes": "An explosion of exotic spices and and citrus served shaken, not stirred.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Back Bar Bitters",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Blood Orange",
+        "percent": 3.0,
+        "grams": 3.0
+      },
+      {
+        "name": "Lemon",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 4.5,
+    "description": "Based on the early 1900s classic cocktail, the Sidecar is a classic cocktail enjoyed the world over. The original recipecalls for equal proportions of lemon juice, Cointreau (orange flavoured liqueur) and Cognac. Modern interpretations includea version with Bourbon instead of rum with a dash of bitterscalled The Bourbon Sidecar. This version is based on thelatter with the exclusion of bourbon.",
+    "author": "RudeRudi",
+    "recipeName": "Sidecar"
+  },
+  {
+    "ageNotes": "3 days",
+    "flavourNotes": "The citrus note in the avocado ties this all together.Just enough bright fruit notes for a summer vape.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Avocado",
+        "percent": 1.2,
+        "grams": 1.2
+      },
+      {
+        "name": "Berry Blend",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Green Tea",
+        "percent": 0.9,
+        "grams": 0.92
+      },
+      {
+        "name": "Milk and Honey",
+        "percent": 0.9,
+        "grams": 0.92
+      }
+    ],
+    "pg": 26.4,
+    "vg": 70,
+    "totalFlavouring": 3.6,
+    "description": "Bright summer vape.",
+    "author": "Tuney",
+    "recipeName": "Smells Like Tea Spirit"
+  },
+  {
+    "ageNotes": "4 to 7 day’s to blend the aromas, 14 day’s or more and itjust get smoother and seems to change into a fuller andsmoother and rich smoothie. Been on the shelf for almost2 months, no degradation in taste",
+    "flavourNotes": "This smoothie makes me FEEL like I’m somewhere on atropical island. ... If there was ever a smoothie vape thattasted like summer, this one is it for me. I’m calling it “tropical”because this smoothie mix is based on the wonderfully newflavour from flavourah ‘Smoothie Base’ and is packed withbold and flavourful fruits and a little sweet cream.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Banana",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Blood Orange",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Honeydew",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Jackfruit",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Smoothie Base",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Sweet Cream",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Wild Melon",
+        "percent": 0.5,
+        "grams": 0.5
+      }
+    ],
+    "pg": 30,
+    "vg": 70,
+    "totalFlavouring": 9.05,
+    "description": "Delicious tropical smoothie mix.",
+    "author": "Smooth Moves",
+    "recipeName": "Sejouced"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "Tropical cheesecake for 1. This I can not stop vaping. Try itafter 3 days up till 2 weeks. This will bounce the flavours andwould hate for you to miss the magic.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cantaloupe",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Cheesecake",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Coconut",
+        "percent": 0.14,
+        "grams": 0.14
+      },
+      {
+        "name": "Cranberry",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Eisai Tea",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Greek Yogurt",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Persimmon",
+        "percent": 0.4,
+        "grams": 0.4
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.37,
+    "description": "Tropical cheesecake vape.",
+    "author": "Soul Thoughts",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "3 days or SNV",
+    "flavourNotes": "Wow Flavourah, just some beautiful concentrates that youhave created, I am in love and was already in love with yourflavours. So much fun developing recipes with these newflavours. This is a Lemonade Berry Wine Cooler. Just perfectwith Spring approaching in the States. This is delicious.Adjust Sweetness to your preference. Tested on EntheonRDA .27 ohm Dual Core Fused Clapton at 58W and WaspNano RDA .38 ohm Flat Twisted Coil at 48W.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Boysenberry",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Brut Bubble Wine",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Ice",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Jammy Berry",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Lemonade",
+        "percent": 2.5,
+        "grams": 2.5
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.75,
+        "grams": 0.75
+      }
+    ],
+    "pg": 30,
+    "vg": 70,
+    "totalFlavouring": 5.5,
+    "description": "Lemonade berry wine cooler.",
+    "author": "Stoned On U’r Love",
+    "recipeName": "Tam_Vapes"
+  },
+  {
+    "ageNotes": "7 days",
+    "flavourNotes": "Working with all Flavourah flavours here – this is cool and crispand fun and different.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Alpine Strawberry",
+        "percent": 2.5,
+        "grams": 2.5
+      },
+      {
+        "name": "Basil",
+        "percent": 0.55,
+        "grams": 0.55
+      },
+      {
+        "name": "Cherimoya",
+        "percent": 1.75,
+        "grams": 1.75
+      },
+      {
+        "name": "Eisai Tea",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Lime Wedge",
+        "percent": 1.2,
+        "grams": 1.2
+      },
+      {
+        "name": "Red Tea",
+        "percent": 2.25,
+        "grams": 2.25
+      }
+    ],
+    "pg": 30,
+    "vg": 70,
+    "totalFlavouring": 9.0,
+    "description": "A strawberry tea with accents of citrus and basil.",
+    "author": "SpicyGal",
+    "recipeName": "Strawberry Basil Tea"
+  },
+  {
+    "ageNotes": "3 days",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Alpine Strawberry",
+        "percent": 0.12,
+        "grams": 0.12
+      },
+      {
+        "name": "Citrus Soda",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Cream",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Ice",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Red Raspberry",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Root Beer",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Strawberry Smash",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Vanilla Bean",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 0.8,
+        "grams": 0.8
+      }
+    ],
+    "pg": 23.27,
+    "vg": 70.0,
+    "totalFlavouring": 4.72,
+    "description": "Root beer float with a fruity surprise.",
+    "author": "Tam_Vapes",
+    "recipeName": "Strawberry Root Beer Float"
+  },
+  {
+    "ageNotes": "Best after a 5 day sit time.",
+    "flavourNotes": "You are so fine, my strawberry wine.. hints of basil, withstrawberries, floating in a glass of moscato, what morecould you want for a summer delight? Cheers!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Alpine Strawberry",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Basil",
+        "percent": 0.14,
+        "grams": 0.14
+      },
+      {
+        "name": "Ice",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Lime Wedge",
+        "percent": 0.07,
+        "grams": 0.07
+      },
+      {
+        "name": "Moscato",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Oak Barrel",
+        "percent": 0.04,
+        "grams": 0.04
+      },
+      {
+        "name": "Red Raspberry",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Strawberry",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Sweet Coconut",
+        "percent": 0.21,
+        "grams": 0.21
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.49,
+    "description": "Strawberry wine with a hint of basil.",
+    "author": "Strawberry Wine",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "I love this taste! Perfect on these spring days, and if youslip in say .20% Ice.. you have it made in the shade!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Green Tea",
+        "percent": 0.28,
+        "grams": 0.28
+      },
+      {
+        "name": "Lemon Tea",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Lychee",
+        "percent": 0.14,
+        "grams": 0.14
+      },
+      {
+        "name": "Mango",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Nectarine",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Peach",
+        "percent": 0.8,
+        "grams": 0.8
+      },
+      {
+        "name": "Pear",
+        "percent": 0.21,
+        "grams": 0.21
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.84,
+    "description": "Fruit-filled summer peach tea.",
+    "author": "Summer Peach Tea",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "Good on an RDA at 60 watts after a 3 - 4 day steep.",
+    "flavourNotes": "This is a sweet and slightly tart cocktail based on a Midori melon ball. On the inhale you get that bright citrus notefollowed by the sweet honeydew and bit of sweet warmthadded from the bourbon.... This grows a bit and thehoneydew really comes forward after a day or so,so give it at least 3 days before deciding if you wantto change anything to suit your taste.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Blood Orange",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Bourbon",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Citrus Soda",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Honeydew",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Melon Rind",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Sour Apple",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Wild Melon",
+        "percent": 1.5,
+        "grams": 1.5
+      }
+    ],
+    "pg": 30,
+    "vg": 70,
+    "totalFlavouring": 8.0,
+    "description": "Sweet and Sassy Irish Lassie",
+    "author": "Mech_Mod_RN",
+    "recipeName": "Midori Melon Ball Cocktail"
+  },
+  {
+    "ageNotes": "Nice as shake and vape but best after 2 weeks steepas FLV tea come out and blend perfectly with the grape.",
+    "flavourNotes": "Simple grape tea recipe. Lemonade helps giving morejuiciness to the recipe and pink fruit smooth a bit theacidity of the grape. Sweeten and ice to taste.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Black Tea",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Grape",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Lemonade",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Pink Fruit",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": 30,
+    "vg": 70,
+    "totalFlavouring": 4.5,
+    "description": "Simple grape tea recipe.",
+    "author": "Tea to the Grape",
+    "recipeName": "GammaVaping"
+  },
+  {
+    "ageNotes": "Shake and vape iced tea and lemonade.",
+    "flavourNotes": "Iced tea and lemonade.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Lemon Tea",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Lemonade",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.25,
+        "grams": 0.27
+      }
+    ],
+    "pg": null,
+    "vg": 96.7,
+    "totalFlavouring": 3.25,
+    "description": "Perfect summer mix of iced tea and lemonade.",
+    "author": "TVC Elite",
+    "recipeName": "The Arnold Palmer S&V"
+  },
+  {
+    "ageNotes": "4 days",
+    "flavourNotes": "Wrestling themed [from the] live show [on] fresh03 youtube.Sleeper being a take on sleepy time green tea. FLV Eisai [Tea]is strong and tasty, it could be reduced to 0.90% if you findit too strong. FLV Honeydew is sweet and pretty authentic.The Citrus Soda adds just a touch of citrus.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Citrus Soda",
+        "percent": 0.3,
+        "grams": 0.32
+      },
+      {
+        "name": "Eisai Tea",
+        "percent": 1.2,
+        "grams": 1.2
+      },
+      {
+        "name": "Honeydew",
+        "percent": 0.3,
+        "grams": 0.32
+      }
+    ],
+    "pg": 28.2,
+    "vg": 70,
+    "totalFlavouring": 1.8,
+    "description": "Going after the sleepy time green tea profile.",
+    "author": "Tuney",
+    "recipeName": "The Sleeper Hold"
+  },
+  {
+    "ageNotes": "5 days",
+    "flavourNotes": "I really enjoy Red Tea (also known as a Roobios tea) and withthe weather starting to turn cool on the east coast, I startmaking loose leaf tea by the bucket loads. Loads. So whenI say that FLV does tea really well, I speak from experience,and their Red Tea is spot on for me. This is a slightly sweetearthy vanilla maple base with some brighter fruit top notes.It makes for a very nice easy all day vape.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Apple Filling",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Cream",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Ginger Peach",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Milk and Honey",
+        "percent": 1.3,
+        "grams": 1.3
+      },
+      {
+        "name": "Persimmon",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Red Tea",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.3,
+        "grams": 0.3
+      },
+      {
+        "name": "Vanilla Bean",
+        "percent": 0.75,
+        "grams": 0.75
+      }
+    ],
+    "pg": 30,
+    "vg": 70,
+    "totalFlavouring": 7.6,
+    "description": "Mech_Mod_RN",
+    "author": "Ginger Peach Red Tea",
+    "recipeName": "The Steeping"
+  },
+  {
+    "ageNotes": "SNV",
+    "flavourNotes": "There are a few lovely cinnamon based cocktails out therethat seem very trendy at the moment, so I thought I wouldtake my chances and create one in a vape, so said the devilinside. The devil on my shoulder made me lick test FlavourahFire Cinnamon & Flavourah Heat, kids DO NOT TRY THIS ATHOME otherwise you may discover the same melting pointof brimstone!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Blood Orange",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Citrus Soda",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Fire Cinnamon",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Heat",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Red Raspberry",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Sour Apple",
+        "percent": 0.5,
+        "grams": 0.5
+      }
+    ],
+    "pg": 30,
+    "vg": 70,
+    "totalFlavouring": 3.75,
+    "description": "Warm cinnamon-based cocktail.",
+    "author": "You Devil",
+    "recipeName": "DIYDownunderPippa"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "Wanted to have the slight wood notes, some of the hint ofnuts to play with the earthiness of red tea here into a slightlyspiced tobacco which is why I added turkish. Added somebrightness a light spice to the mix.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Arabian Tobacco",
+        "percent": 0.15,
+        "grams": 0.15
+      },
+      {
+        "name": "Oriental Tobacco",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Red Tea",
+        "percent": 1.25,
+        "grams": 1.25
+      },
+      {
+        "name": "Turkish Tobacco",
+        "percent": 0.5,
+        "grams": 0.5
+      }
+    ],
+    "pg": 30,
+    "vg": 70,
+    "totalFlavouring": 2.65,
+    "description": "A spiced tobacco with earthy notes.",
+    "author": "SlashaLo",
+    "recipeName": "8th Wonder"
+  },
+  {
+    "ageNotes": "7 days",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Black Currant",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Custard",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Sweet and Smokey Tobacco",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Turkish Tobacco",
+        "percent": 0.75,
+        "grams": 0.75
+      }
+    ],
+    "pg": null,
+    "vg": 93.5,
+    "totalFlavouring": 3.5,
+    "description": "Tobacco vape with a hint of creamy black currant.",
+    "author": "Freshepies",
+    "recipeName": "Black and Brown Need Love Too"
+  },
+  {
+    "ageNotes": "5 days",
+    "flavourNotes": "For those cigar heads that want to vape something a littlebrighter for the warm weather! A blood orange, elderflowercigar for you guys!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Blood Orange",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Cavendish",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Connecticut Shade",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Cured Tobacco",
+        "percent": 1.6,
+        "grams": 1.6
+      },
+      {
+        "name": "Elderflower",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Orange Citrus",
+        "percent": 0.6,
+        "grams": 0.6
+      }
+    ],
+    "pg": 30,
+    "vg": 70,
+    "totalFlavouring": 4.4,
+    "description": "A blood orange, elderflower cigar vape.",
+    "author": "SlashaLo",
+    "recipeName": "BlutOrange Ziggare"
+  },
+  {
+    "ageNotes": "7 days or SNV",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Bourbon",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Chocolate Deutsch",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Kentucky Blend",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Red Burley",
+        "percent": 1.5,
+        "grams": 1.5
+      }
+    ],
+    "pg": 18.25,
+    "vg": 75.0,
+    "totalFlavouring": 3.75,
+    "description": "A simple and sweet boozie chocolate tobacco vape.",
+    "author": "Shakenvape007",
+    "recipeName": "Bourbon Chocolate Tobacco"
+  },
+  {
+    "ageNotes": "Will take a full two-weeks to get the Turkishand Oriental to shine here.",
+    "flavourNotes": "Formulated as a MTL recipe. Fresh, ashy, smoky analogthat is only lightly smutty. Leans more towards a Camelesque profile.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Classic Cigarette",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Commercial Cigarette",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Milk Chocolate",
+        "percent": 0.15,
+        "grams": 0.15
+      },
+      {
+        "name": "Oak Barrel",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Oriental Tobacco",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Sweet Cigarette",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Turkish Tobacco",
+        "percent": 0.5,
+        "grams": 0.5
+      }
+    ],
+    "pg": 29.6,
+    "vg": 60.0,
+    "totalFlavouring": 4.4,
+    "description": "Explosion of apple flavour.",
+    "author": "Burning Sahara Gold",
+    "recipeName": "Mortal Coil"
+  },
+  {
+    "ageNotes": "5 days",
+    "flavourNotes": "This is my first, playing with both clove and ginger,but they go together so well! the tobacco is lightand smooth, especially after a 5 day steep time.It only keeps getting better!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Clove",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Cream",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Ginger",
+        "percent": 0.08,
+        "grams": 0.08
+      },
+      {
+        "name": "Lemon Tea",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Turkish Tobacco",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Virginia Tobacco",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 3.49,
+    "description": "Smooth clove and ginger tobacco mix.",
+    "author": "Djarum Tobacco",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "Allow 5-7 days to steep.",
+    "flavourNotes": "Do not let these low amounts blow your mind, instead getit blown by buttery cream and nuts, with an exhale of sweetcigarette. Good for nights out or just relaxing while stargazing...this is one of my favorite tobacco tastes.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Creme De Menthe",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Irish Cream",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Pistachio",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Popcorn",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Sweet Cigarette",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Sweet Coconut",
+        "percent": 0.21,
+        "grams": 0.21
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 1.45,
+    "description": "Explosion of apple flavour.",
+    "author": "Great Escape",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "I wanted to really get a feel for FLV fruits and do something withtobacco. When I single flavoured tested Alpine Strawberry Ithought it would go great with Red Burley, it’s used at 0.20%here, but I make a 10% dilution of it and mix it at 2%. Theprofile of this is a mixed fruit kind of tobacco, all the fruits adda little something but I didn’t want any one of the fruits to betoo upfront.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Alpine Strawberry",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Apricot",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Blood Orange",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Red Burley",
+        "percent": 2.5,
+        "grams": 2.5
+      }
+    ],
+    "pg": 22.8,
+    "vg": 70.0,
+    "totalFlavouring": 6.2,
+    "description": "Mixed fruit tobacco vape.",
+    "author": "Mop Head",
+    "recipeName": "Fruity Tobacco"
+  },
+  {
+    "ageNotes": "Let sit for 7 d\"ays or longer, if you can.",
+    "flavourNotes": "Simple recipe and sure to keep that creamynutty and sweet tobacco taste. It’s like an RY4,Yumm!! Only gets better in time!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Butterscotch",
+        "percent": 0.4,
+        "grams": 0.4
+      },
+      {
+        "name": "Cupcake Batter",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Hazelnut",
+        "percent": 0.14,
+        "grams": 0.14
+      },
+      {
+        "name": "Sweet Cigarette",
+        "percent": 0.2,
+        "grams": 0.2
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 1.74,
+    "description": "Creamy, nutty sweet tobacco vape.",
+    "author": "Hazy Nights",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "Allow to steep for 5-7 days.",
+    "flavourNotes": "This one actually turned out decent. The Oriental Tobacco isthe main part of this, while the red burley adds structure andbottom notes. If you feel the need to add sweetness, pleasetry a small batch of this first. It really is not needed.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Honey Bee",
+        "percent": 0.04,
+        "grams": 0.04
+      },
+      {
+        "name": "Macaroon",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Marshmallow",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Milk and Honey",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Oriental Tobacco",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Red Burley",
+        "percent": 0.12,
+        "grams": 0.12
+      },
+      {
+        "name": "Vanilla Custard",
+        "percent": 0.4,
+        "grams": 0.4
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 1.79,
+    "description": "Tobacco forward with a honey nut accent.",
+    "author": "Honey Nut Tobacco",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "2 weeks",
+    "flavourNotes": "A recreation of clove tobacco for Pod or MTL for that matter.I was not a big clove cig smoker back in the day, but this abeautiful combo. Who doesn’t like the spice notes of FLV RedBurley and FLV Kentucky. They pair so well together. Top itoff with clove and you have a enjoyable sweet, spice clovetobacco vape. This recipe is intended for low watt restrictedair flow... I personally would not recommend pushing Flavourahconcentrates at these levels in a traditional sub-ohm recipe.Enjoy!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Clove",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Kentucky Blend",
+        "percent": 3.0,
+        "grams": 3.0
+      },
+      {
+        "name": "Red Burley",
+        "percent": 6.0,
+        "grams": 6.0
+      }
+    ],
+    "pg": 40,
+    "vg": 60,
+    "totalFlavouring": 9.75,
+    "description": "A clove tobacco for Pod or MTL.",
+    "author": "Kreteks",
+    "recipeName": "Shakenvape007"
+  },
+  {
+    "ageNotes": "3 days",
+    "flavourNotes": "This is a delicious tobacco layer. The combination of FLVTurkish Tocacco and FLV Oriental Tobacco create a tobaccoflavour with spice and nutty notes. These pairings go excellentwith bourbon and cream. To accentuate the nuttiness in thetobacco blend, I use FLV Kinako Soy. To build on this layerfeel free to add Fig, dates, or any dark berries.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Bourbon",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Cream",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Kinako Soy",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Oriental Tobacco",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Turkish Tobacco",
+        "percent": 0.5,
+        "grams": 0.5
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 2.5,
+    "description": "Layered nutty, spicy tobacco.",
+    "author": "Tam_Vapes",
+    "recipeName": "Layerz: Turkish Oriental Tobacco"
+  },
+  {
+    "ageNotes": "5 days or SNV",
+    "flavourNotes": "This is a pretty good mix, it is really close to the Black NoteSolo, I didn’t know it until tonight, I made this trial vape 2weeks ago before I bought the solo mix...and I wanted tomake an all FLV mix as well. I hope all who try it enjoy it.I was a menthol tobacco smoker before I started vaping...and this could very well be my go-to vape.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Commerical Cigarette",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Cool Menthol",
+        "percent": 0.05,
+        "grams": 0.05
+      },
+      {
+        "name": "Pucker",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Red Burley",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Sweet Cigarette",
+        "percent": 3.0,
+        "grams": 3.0
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.25,
+        "grams": 0.25
+      }
+    ],
+    "pg": 50,
+    "vg": 50,
+    "totalFlavouring": 5.0,
+    "description": "Menthol tobacco mix.",
+    "author": "Newps Menthol Ejuice",
+    "recipeName": "DaddyKane91"
+  },
+  {
+    "ageNotes": "Ready to vape straight away, or give it a few days for thetobacco to get a little stronger.",
+    "flavourNotes": "One of my absolute favorite adv’s, this is ALWAYS in mydaily rotation.... It is light, sweet and desserty with tobacconuances.... I do love the combo of the FLV vanilla here.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Butterscotch",
+        "percent": 0.33,
+        "grams": 0.33
+      },
+      {
+        "name": "Caramel",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Oriental Tobacco",
+        "percent": 0.27,
+        "grams": 0.27
+      },
+      {
+        "name": "Smooth Vanilla",
+        "percent": 0.07,
+        "grams": 0.07
+      },
+      {
+        "name": "Vanilla Bean",
+        "percent": 0.07,
+        "grams": 0.07
+      }
+    ],
+    "pg": null,
+    "vg": 99.06,
+    "totalFlavouring": 0.94,
+    "description": "Light, sweet dessert tobacco.",
+    "author": "AshlieGantt",
+    "recipeName": "oRY3ntal Tobacco"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "Not your typical pie, for sure! This is like cream pie meetsa sweet tobacco. On the inhale your going to get a sweetcream pie, so tasty! The granola and apple filling is therefor the pie crust, and on the exhale, a creamy yet sweettobacco. This puts that VCT to shame! Mix some up andhave a few tokes!",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Apple Filling",
+        "percent": 0.14,
+        "grams": 0.14
+      },
+      {
+        "name": "Cheesecake",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Cotton Candy",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Granola",
+        "percent": 0.14,
+        "grams": 0.14
+      },
+      {
+        "name": "Greek Yogurt",
+        "percent": 0.21,
+        "grams": 0.21
+      },
+      {
+        "name": "Sweet Cigarette",
+        "percent": 0.2,
+        "grams": 0.2
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 1.9,
+    "description": "A sweet creamy pie tobacco.",
+    "author": "Pie in the Sky",
+    "recipeName": "Smoky Blue"
+  },
+  {
+    "ageNotes": "N/A",
+    "flavourNotes": "What’s better than getting a nice bowl of pudding, crushingup some popcorn in it and sprinkling some tobacco on top?Everything is better than that, but luckily vaping gives us thechance to bring together flavours that would otherwise bedisgusting. Obviously this is a bit different, but I really enjoythe sweet creamy pudding, buttery and textured popcorn,and bold full flavours from the tobacco.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cream",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Cured Tobacco",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Popcorn",
+        "percent": 0.75,
+        "grams": 0.77
+      },
+      {
+        "name": "Vanilla Bean",
+        "percent": 0.2,
+        "grams": 0.2
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 2.5,
+        "grams": 2.5
+      }
+    ],
+    "pg": 23.03,
+    "vg": 70.0,
+    "totalFlavouring": 5.95,
+    "description": "Sweet creamy pudding and buttery, textured popcorn infused with a bold tobacco flavour.",
+    "author": "Mop Head",
+    "recipeName": "Popcorn Pudding Tobacco"
+  },
+  {
+    "ageNotes": "3 days",
+    "flavourNotes": "Created using the new FLV Sweet and Smokey Tobacco.This is a sweet tobacco with some ashy notes. I paired itwith FLV Tatanka which is a dark sweet cheeing tobacco.Butterscotch is used to make it more desserty, and pairsperfectly with Smoked Butterscotch. To enhance a bit ofnuttiness from the tobacco I used Kinako Soy, and thisneeded a fruit to bring in some sweeter notes, so Fig wasused as an accent. Of course FLV Cream is perfect to blendtogether and smooth any off notes. So take a ride with meand try this delicious tobacco.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Butterscotch",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Cream",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Fig",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Kinako Soy",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Smoked Butterscotch",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Sweet and Smokey Tobacco",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Tatanka Tobacco",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 6.0,
+    "description": "Dessert tobacco with sweet butterscotch accents.",
+    "author": "Tam_Vapes",
+    "recipeName": "Ride With Me"
+  },
+  {
+    "ageNotes": "3 weeks",
+    "flavourNotes": "A very tasteful blend of selected tobacco aromas finishedwith an oaky American bourbon with a smooth finish. Youget a dark mysterious vape with light ashy notes, overall asweetened tobacco taste, enriched with butterscotch andbourbon and a smooth vanilla aroma. Pretty sure you’ll lovethis one, but you’ll hate me as well for being a coil killerI’ve been told. :D This being my most wanted tobacco mixamongst fellow vapers and friends. I finally decided to sharethis mix with all of you. Enjoy the vape.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Bourbon",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Cavendish",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Connecticut Shade",
+        "percent": 2.0,
+        "grams": 2.0
+      },
+      {
+        "name": "Kentucky Blend",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Smoked Butterscotch",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Smooth Vanilla",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.75,
+        "grams": 0.75
+      }
+    ],
+    "pg": 30,
+    "vg": 70,
+    "totalFlavouring": 6.25,
+    "description": "Tobacco enriched with butterscotch and bourbon with a smooth vanilla finish.",
+    "author": "Sejouced",
+    "recipeName": "Smoked N°"
+  },
+  {
+    "ageNotes": "5 days",
+    "flavourNotes": "Flavourah Root Beer has amazing spices and that is theforward note smoothed out with the creams and vanilla.The Oriental Tobacco (also has nice subdued spices) is rightin the middle with the Smoked Butterscotch right below that.The oriental can be increased to 1.2% if you want a moretobacco forward mix.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Cream",
+        "percent": 0.6,
+        "grams": 0.6
+      },
+      {
+        "name": "Oriental Tobacco",
+        "percent": 0.9,
+        "grams": 0.92
+      },
+      {
+        "name": "Root Beer",
+        "percent": 0.9,
+        "grams": 0.92
+      },
+      {
+        "name": "Smoked Butterscotch",
+        "percent": 1.5,
+        "grams": 1.52
+      },
+      {
+        "name": "Vanilla Bean",
+        "percent": 0.3,
+        "grams": 0.32
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 0.9,
+        "grams": 0.92
+      }
+    ],
+    "pg": 24.92,
+    "vg": 70,
+    "totalFlavouring": 5.1,
+    "description": "Explosion of apple flavour.",
+    "author": "Tuney",
+    "recipeName": "Smoky N Smooth Root Beer"
+  },
+  {
+    "ageNotes": "3 weeks",
+    "flavourNotes": "The Ruby, part one in a Tatanka tobacco trilogy. Tatanka: Astory of the Bison, a tribute to South Dakota, to the NativeAmerican horseback riders – frozen in motion in a beautiful,high-prairie setting. FLV Vanilla Custard and a pinch of FLVPistachio are combined with the best tobaccos and aromasto create a tobacco vape bold and subtle at the same time.I combined FLV Tatanako and FLV Red Burley, added FLVOak Barrel for a light woody taste and FLV Butterscotch for arich and caramelly flavour and sweetness. Finally a little FLVSmoked Butterscotch for that buttery baked, caramel, andsmoked notes.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Butterscotch",
+        "percent": 1.1,
+        "grams": 1.1
+      },
+      {
+        "name": "Oak Barrel",
+        "percent": 0.15,
+        "grams": 0.15
+      },
+      {
+        "name": "Pistachio",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Red Burley",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Smoked Butterscotch",
+        "percent": 0.15,
+        "grams": 0.15
+      },
+      {
+        "name": "Smooth Vanilla",
+        "percent": 0.15,
+        "grams": 0.15
+      },
+      {
+        "name": "Tatanka Tobacco",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Vanilla Custard",
+        "percent": 2.0,
+        "grams": 2.0
+      }
+    ],
+    "pg": 30,
+    "vg": 70,
+    "totalFlavouring": 6.3,
+    "description": "A bold, yet subtle, tobacco vape.",
+    "author": "Tatanachio “The Ruby”",
+    "recipeName": "Sejouced"
+  },
+  {
+    "ageNotes": "3 days",
+    "flavourNotes": "This turned out to be a rather chocolatey flavour [with] aslight chocolate type flavour from FLV Mocha but when itsmixed with the Smoked Butterscotch it turns into a reallychocolatey flavour and a good chocolate at that. ... Milk andHoney brings a creamy smoothness to the vape with a honeysweetness. Vanilla Bean was more or less just thrown in toadd to the complexity and/or because it plays well with justabout everything. ... I used a combination of Oriental FLVand Tatanka FLV. ... I don’t put out or make a lot of tobaccorecipes but this one is pretty awesome and if you mix it letme know what think?",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Milk and Honey",
+        "percent": 1.25,
+        "grams": 1.25
+      },
+      {
+        "name": "Mocha",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Oriental Tobacco",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Smoked Butterscotch",
+        "percent": 1.25,
+        "grams": 1.25
+      },
+      {
+        "name": "Tatanka Tobacco",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Vanilla Bean",
+        "percent": 1.0,
+        "grams": 1.0
+      }
+    ],
+    "pg": 16.75,
+    "vg": 75.0,
+    "totalFlavouring": 5.25,
+    "description": "Nighttime dessert tobacco vape.",
+    "author": "Tootall",
+    "recipeName": "Tobacco Night’s"
+  },
+  {
+    "ageNotes": "3 days",
+    "flavourNotes": "N/A",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Milk and Honey",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Red Burley",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Sweetness",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Tatanka Tobacco",
+        "percent": 0.75,
+        "grams": 0.75
+      },
+      {
+        "name": "Thai Chai",
+        "percent": 1.5,
+        "grams": 1.5
+      },
+      {
+        "name": "Vanilla Pudding",
+        "percent": 2.0,
+        "grams": 2.0
+      }
+    ],
+    "pg": 9.55,
+    "vg": 80.7,
+    "totalFlavouring": 6.75,
+    "description": "Sweet and spicy vanilla chai tobacco vape.",
+    "author": "Vanilla Chai Tobacco",
+    "recipeName": "G3N0CID3"
+  },
+  {
+    "ageNotes": "3 days",
+    "flavourNotes": "This is a delicious after dinner tobacco vape. Thecombination of FLV Turkish Tocacco and FLV OrientalTobacco create a tobacco flavour with spice and nutty notes.These pairings go excellent with bourbon, fig, and cream.To accentuate the nuttiness in the tobacco blend, I used FLV Kinako Soy.",
+    "myNotes": "xxx",
+    "flavours": [
+      {
+        "name": "Bourbon",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Cream",
+        "percent": 1.0,
+        "grams": 1.0
+      },
+      {
+        "name": "Fig",
+        "percent": 0.5,
+        "grams": 0.5
+      },
+      {
+        "name": "Kinako Soy",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Oriental Tobacco",
+        "percent": 0.25,
+        "grams": 0.25
+      },
+      {
+        "name": "Turkish Tobacco",
+        "percent": 0.5,
+        "grams": 0.5
+      }
+    ],
+    "pg": 20,
+    "vg": 80,
+    "totalFlavouring": 3.0,
+    "description": "Delicious after-dinner tobacco vape.",
+    "author": "Tam_Vapes",
+    "recipeName": "Wild Horses"
+  }
+]
