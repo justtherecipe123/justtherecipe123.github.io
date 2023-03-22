@@ -1,0 +1,122 @@
+select,
+textarea,
+.checkbox-group,
+.smart-search,
+input[type='text'],
+input[type='email'],
+input[type='password'] {
+  @include remove-tap-highlight;
+  @include font-size(15px, 18px);
+  @include transition(color border-color, 0.2s, $ease-in-out-quad);
+  color: $c-mine-shaft;
+  background-color: $c-white;
+  width: 100%;
+  border-radius: $border-radius-medium;
+  border-color: $c-gallery;
+  border-style: solid;
+  border-width: 0.0625rem;
+  padding-top: 0.73333333333em;
+  padding-right: 1em;
+  padding-bottom: 0.66666666666em;
+  padding-left: 1em;
+  height: 2.5625rem;
+  max-width: 38.75rem;
+
+  .precursor-input & {
+    border-top-right-radius: $border-radius-medium;
+    border-bottom-right-radius: $border-radius-medium;
+  }
+
+  .precursor-input--flipped & {
+    border-top-left-radius: $border-radius-medium;
+    border-bottom-left-radius: $border-radius-medium;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+
+  .cell-field & {
+    border-radius: 0;
+    max-width: none;
+    width: 100%;
+    background-color: transparent;
+    border-color: transparent;
+    height: 100%;
+    transition: none;
+  }
+
+  .form-field--error & {
+    border-color: $c-milano-red;
+  }
+
+  .form-field--horizontal & {
+    width: auto;
+  }
+
+  .cell-right-align & {
+    text-align: right;
+  }
+
+  &:hover:not(:disabled) {
+    border-color: $c-alto;
+
+    .form-field--error & {
+      border-color: $c-milano-red;
+    }
+  }
+
+  &:active:not(:disabled),
+  &:focus-within:not(:disabled),
+  &:focus:not(:disabled) {
+    color: $c-blue-lagoon;
+    border-color: $c-blue-lagoon;
+    z-index: $z-input-active-focus;
+
+    .form-field--error & {
+      border-color: $c-milano-red;
+    }
+  }
+
+  &:disabled:not(.input-no-supplier) {
+    background-color: $c-wild-sand;
+    border: 0;
+  }
+
+  &.small-input {
+    width: 6.25rem;
+  }
+}
+
+textarea {
+  @include font-size(15px, 24px);
+  height: auto;
+}
+
+select {
+  @include icon-chevron-down;
+  appearance: none;
+  background-position: right 0.9375rem top 50%;
+  background-repeat: no-repeat;
+  background-size: 0.875rem auto;
+  max-width: 16.25rem;
+  padding-right: 2.875rem;
+
+  .cell-field & {
+    max-width: none;
+    background-image: none;
+  }
+
+  &:active,
+  &:focus-within,
+  &:focus {
+    .cell-field & {
+      @include icon-chevron-down;
+    }
+  }
+}
+
+input[type='file']::file-selector-button {
+  @include btn;
+  @include btn-text;
+  display: inline-block;
+  margin-right: 0.625rem;
+}

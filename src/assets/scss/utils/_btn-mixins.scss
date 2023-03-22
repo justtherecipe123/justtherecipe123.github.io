@@ -1,0 +1,72 @@
+@mixin btn {
+  @include font-size(15px, 15px);
+  @include transition(background-color border);
+  @include remove-tap-highlight;
+  position: relative;
+  background-color: $c-blue-lagoon;
+  border: 0.125rem solid $c-blue-lagoon;
+  border-radius: $border-radius-medium;
+  cursor: pointer;
+
+  .is-touch & {
+    transition: none;
+  }
+
+  &:hover {
+    background-color: $c-teal;
+    border-color: $c-teal;
+
+    .icon-wrap {
+      &::before {
+        border-color: $c-blue-lagoon;
+        background-color: $c-blue-lagoon;
+      }
+    }
+  }
+
+  &:focus {
+    background-color: $c-blue-lagoon;
+    border-color: $c-ziggurat;
+
+    .icon-wrap {
+      &::before {
+        background-color: $c-persian-green;
+        border-color: $c-ziggurat;
+      }
+    }
+  }
+
+  &:active {
+    background-color: $c-blue-stone;
+    border-color: $c-blue-stone;
+
+    .icon-wrap {
+      &::before {
+        border-color: $c-teal;
+        background-color: $c-teal;
+      }
+    }
+  }
+
+  &:disabled {
+    border-color: $c-ziggurat;
+    background-color: $c-ziggurat;
+    pointer-events: none;
+
+    .icon-wrap {
+      &::before {
+        background-color: $c-catskill-white;
+      }
+    }
+  }
+}
+
+@mixin btn-text {
+  position: relative;
+  display: flex;
+  padding-right: 1em;
+  padding-top: 0.73333333333em;
+  padding-bottom: 0.66666666666em;
+  padding-left: 1em;
+  color: $c-white;
+}

@@ -1,3 +1,5 @@
+export type TypeRecipes = TypeRecipe[]
+
 export interface TypeRecipe {
   ageNotes: string
   flavourNotes: string

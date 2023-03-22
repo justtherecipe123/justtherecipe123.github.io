@@ -1,0 +1,20 @@
+// These aren't used, but useful for references font weights
+@mixin f-inter-regular {
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+}
+
+@mixin f-inter-medium {
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+}
+
+@mixin f-inter-semibold {
+  font-family: 'Inter', sans-serif;
+  font-weight: 600;
+}
+
+@mixin f-inter-bold {
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+}

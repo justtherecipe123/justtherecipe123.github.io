@@ -1,0 +1,11 @@
+{
+  "endOfLine": "auto",
+  "semi": false,
+  "singleQuote": true,
+  "trailingComma": "none",
+  "commaDangle": "never",
+  "maxAttributesPerLine": "off",
+  "wrapAttributes": false,
+  "printWidth": 300,
+  "tabWidth": 2
+}

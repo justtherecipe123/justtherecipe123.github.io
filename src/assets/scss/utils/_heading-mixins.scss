@@ -1,0 +1,33 @@
+@mixin heading {
+  margin-bottom: 0.5em;
+  color: $c-regal-blue;
+
+  &:last-child {
+    margin-bottom: 0;
+  }
+}
+
+@mixin heading-xl {
+  @include heading;
+  @include font-size-heading(30px, 44px);
+  font-weight: 700;
+}
+
+@mixin heading-lg {
+  @include heading;
+  @include font-size-heading(26px, 38px);
+  font-weight: 600;
+}
+
+@mixin heading-md {
+  @include heading;
+  @include font-size-heading(22px, 34px);
+  font-weight: 600;
+}
+
+@mixin heading-sm {
+  @include heading;
+  @include font-size-heading(20px, 30px);
+  margin-bottom: 1em;
+  font-weight: 500;
+}

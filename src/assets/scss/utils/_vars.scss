@@ -1,0 +1,98 @@
+// Colours
+$c-white: #fff;
+$c-black: #000;
+$c-mine-shaft: #3c3c3c; // Text
+$c-regal-blue: #003c73; // Brand / Message Text - Warning
+$c-midnight-blue: #00325f; // Table Header Active
+$c-gallery: #ebebeb; // Border
+$c-wild-sand: #f5f5f5; // Checkboxes
+$c-alto: #d7d7d7; // Border / Input:hover
+$c-dove-grey: #666666; // Disabled Search Text
+$c-boulder: #787878; // Input:active
+$c-blue-lagoon: #00828c; // Btn / Input:focus  / Message Text - Information / Order No. Status
+$c-persian-green: #00919b; // Btn Icon Background
+$c-teal: #00737d; // Btn Icon Background:hover/active
+$c-blue-stone: #00646e; // Btn Background:active
+$c-tradewind: #65b3b9; // Checkbox Focus/Active
+$c-catskill-white: #e6f3f4; // Checkbox:hover / Message Background - Information
+$c-ziggurat: #b4dadd; // Btn:focus Border
+$c-science-blue: #0069d2; // Link
+$c-daisy-bush: #4c2292; // Link:visited
+$c-resolution-blue: #003078; // Link:hover
+$c-endeavour: #00509b; // Primary Nav Item
+$c-milano-red: #d51d00; // Link:hover / Message Text - Error / Pill Block Error Text / Bold BLock Text
+$c-dark-milano-red: #be1900; // Warning button:hover
+$c-darker-milano-red: #af1900; // Warning button:active
+$c-scarlet: #e82000; // Warning button icon background
+$c-cornflower-blue: #005fb9; // Link:hover/active
+$c-harp: #eaf5ea; // Message Background - Success
+$c-forest-green: #289628; // Message Text - Success / Pill Block Success Text
+$c-mystic: #e6ecf1; // Message Background - Warning
+$c-linen: #fbe8e6; // Message Background - Error
+$c-light-mandys-pink: #f2bab2; // Warning button:disabled
+$c-mandys-pink: #f3bbb3; // Pill Block Error Border
+$c-linen: #fbe8e6; // Pill Block Error Background / Bold Block Background
+$c-light-linen: #fdf3f2; // Table Row Disabled
+$c-pixie-green: #bedfbe; // Pill Block Success Border
+$c-harp: #eaf5ea; // Pill Block Success Background
+$c-horizon: #668aab; // Table Header Checkbox Background
+
+// Layout
+// Usage - `property: map-get($gutters, 'default');`
+$gutters: (
+  'default': 1.875rem
+);
+
+$spacing: 1.25rem;
+$spacing-sm: 1.875rem;
+$spacing-lg: 2.5rem;
+
+// Breakpoints
+$breakpoints: (
+  '0': 0,
+  'xxs': 360px,
+  'xs': 480px,
+  'sm': 768px,
+  'md': 1024px,
+  'lg': 1366px,
+  'xl': 1680px,
+  'xxl': 2400px
+);
+
+// Easings
+$ease-in-quad: cubic-bezier(0.55, 0.085, 0.68, 0.53);
+$ease-in-cubic: cubic-bezier(0.55, 0.055, 0.675, 0.19);
+$ease-in-quart: cubic-bezier(0.895, 0.03, 0.685, 0.22);
+$ease-in-quint: cubic-bezier(0.755, 0.05, 0.855, 0.06);
+$ease-in-expo: cubic-bezier(0.95, 0.05, 0.795, 0.035);
+$ease-in-circ: cubic-bezier(0.6, 0.04, 0.98, 0.335);
+
+$ease-out-quad: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+$ease-out-cubic: cubic-bezier(0.215, 0.61, 0.355, 1);
+$ease-out-quart: cubic-bezier(0.165, 0.84, 0.44, 1);
+$ease-out-quint: cubic-bezier(0.23, 1, 0.32, 1);
+$ease-out-expo: cubic-bezier(0.19, 1, 0.22, 1);
+$ease-out-circ: cubic-bezier(0.075, 0.82, 0.165, 1);
+
+$ease-in-out-quad: cubic-bezier(0.455, 0.03, 0.515, 0.955);
+$ease-in-out-cubic: cubic-bezier(0.645, 0.045, 0.355, 1);
+$ease-in-out-quart: cubic-bezier(0.77, 0, 0.175, 1);
+$ease-in-out-quint: cubic-bezier(0.86, 0, 0.07, 1);
+$ease-in-out-expo: cubic-bezier(1, 0, 0, 1);
+$ease-in-out-circ: cubic-bezier(0.785, 0.135, 0.15, 0.86);
+
+// Z-indexes
+$z-user-nav: 1;
+$z-user-nav-btn-wrap: 1;
+$z-alert-block: 1;
+$z-input-active-focus: 1;
+$z-dynamic-btn-sticky-bottom: 1;
+$z-sales-order-information-cols-before: 1;
+$z-add-row-btn: 1;
+$z-smart-search-results: 1;
+$z-app-header: 2;
+$z-transparent-overlay: 3;
+
+// Misc
+$border-radius-medium: 0.25rem;
+$border-radius-small: 0.125rem;

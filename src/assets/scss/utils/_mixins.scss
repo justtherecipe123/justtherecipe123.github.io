@@ -1,0 +1,63 @@
+@use 'sass:math';
+
+@function calculate-rem($size) {
+  $remSize: math.div($size, 16px);
+  @return #{$remSize}rem;
+}
+
+@mixin font-size($size, $line: $size * 1.765) {
+  /* stylelint-disable */
+  font-size: calculate-rem($size);
+  line-height: calculate-rem($line);
+  /* stylelint-enable */
+}
+
+@mixin font-size-heading($size, $line: $size * 1.365) {
+  /* stylelint-disable */
+  font-size: calculate-rem($size);
+  line-height: calculate-rem($line);
+  /* stylelint-enable */
+}
+
+@mixin font-smoothing($value: antialiased) {
+  @if $value==antialiased {
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+  } @else {
+    -moz-osx-font-smoothing: auto;
+    -webkit-font-smoothing: subpixel-antialiased;
+  }
+}
+
+@mixin remove-tap-highlight {
+  outline: none;
+  -webkit-tap-highlight-color: transparent !important;
+}
+
+@mixin transition(
+  $properties: all,
+  $duration: 200ms,
+  $method: $ease-out-quint,
+  $delay: 0ms,
+  $willChange: false,
+  $backFaceVisibility: false
+) {
+  $value: ();
+  $valueWillChange: ();
+  @each $property in $properties {
+    @if length($value) > 0 {
+      $value: append($value, unquote(',') #{$property} $duration $method $delay);
+      $valueWillChange: append($valueWillChange, unquote(',') #{$property});
+    } @else {
+      $value: append($value, #{$property} $duration $method $delay);
+      $valueWillChange: append($valueWillChange, #{$property});
+    }
+  }
+  transition: $value;
+  @if $willChange {
+    will-change: $valueWillChange;
+  }
+  @if $backFaceVisibility {
+    backface-visibility: hidden;
+  }
+}
