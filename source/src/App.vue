@@ -123,7 +123,9 @@ const filteredRecipes = computed(() => {
 .btn-wrap {
 display: flex;
 position: relative;
-gap: 1rem;
+gap: 0.5rem;
+flex-wrap: wrap;
+margin-bottom: 0.5rem;
 }
 
 .btn {
