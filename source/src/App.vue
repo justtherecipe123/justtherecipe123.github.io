@@ -7,6 +7,7 @@ import type { TypeRecipes, TypeRecipe, TypeFlavour } from '@/Types'
 const recipes = ref(Recipes as TypeRecipes)
 const allFlavours = ref([] as string[])
 const myFlavours = ref([] as string[])
+const missingFlavourActive = ref(false)
 
 // Created
 uniqueFlavours()
@@ -43,13 +44,26 @@ function deselectAllFlavours () {
   updateLocalStorage()
 }
 
+function allowMissingFlavour () {
+  missingFlavourActive.value = true
+}
+
+function disallowMissingFlavour () {
+  missingFlavourActive.value = false
+}
+
 // Computed
 const filteredRecipes = computed(() => {
-// filter out any recipes that include flavours that are not in myFlavours
+// filter out any recipes that include flavours that are not in myFlavours, but allow for 1 missing flavour if missingFlavourActive is true
   return recipes.value.filter((recipe: TypeRecipe) => {
-    return recipe.flavours.every((flavour: TypeFlavour) => {
-      return myFlavours.value.includes(flavour.name)
+    const missingFlavours = recipe.flavours.filter((flavour: TypeFlavour) => {
+      return !myFlavours.value.includes(flavour.name)
     })
+    if (missingFlavourActive.value) {
+      return missingFlavours.length <= 1
+    } else {
+      return missingFlavours.length === 0
+    }
   })
 })
 </script>
@@ -63,6 +77,9 @@ const filteredRecipes = computed(() => {
     <div class="btn-wrap">
     <button class="btn" @click="selectAllFlavours">Select All</button>
     <button class="btn" @click="deselectAllFlavours">Deselect All</button>
+    <button class="btn" @click="allowMissingFlavour">Allow 1 missing flavour</button>
+    <button class="btn" @click="disallowMissingFlavour">Disallow 1 missing flavour</button>
+
   </div>
     <ul class="flavours">
       <li class="flavour" v-for="flavour in allFlavours" :key="flavour">
