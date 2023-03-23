@@ -10,18 +10,6 @@ export default defineConfig({
       '@': fileURLToPath(new URL('./src', import.meta.url))
     }
   },
-  define: {
-    // Prevents inline tests from being included in production bundle
-    'import.meta.vitest': 'undefined'
-  },
-  test: {
-    includeSource: ['src/**/*.ts', 'src/**/*.vue'],
-    globals: true,
-    environment: 'happy-dom',
-    coverage: {
-      reporter: ['text', 'html']
-    }
-  },
   css: {
     preprocessorOptions: {
       scss: {

@@ -35,10 +35,12 @@ function getLocalStorage () {
 
 // Computed
 const filteredRecipes = computed(() => {
-// only show recipes that includes flavours found in myFlavours
+// only show recipes that include all matching flavours found in myFlavours
   return recipes.value.filter((recipe: TypeRecipe) => {
-    return recipe.flavours.some((flavour: TypeFlavour) => {
-      return myFlavours.value.includes(flavour.name)
+    return myFlavours.value.every((flavour: string) => {
+      return recipe.flavours.some((recipeFlavour: TypeFlavour) => {
+        return recipeFlavour.name === flavour
+      })
     })
   })
 })
@@ -46,10 +48,10 @@ const filteredRecipes = computed(() => {
 
 <template>
   <div class="container">
-    <!-- <div class="header">
-      <h1 class="title">{{ title }}</h1>
-      <h2 class="author">{{ author }}</h2>
-    </div> -->
+    <div class="header">
+      <h1 class="title">Flavour Town</h1>
+      <!-- <h2 class="author">{{ author }}</h2> -->
+    </div>
     <ul class="flavours">
       <li class="flavour" v-for="flavour in allFlavours" :key="flavour">
         <label class="flavour-label">
@@ -83,10 +85,24 @@ const filteredRecipes = computed(() => {
 </template>
 
 <style scoped>
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  font-size: 36px;
+  font-weight: bold;
+  margin: 0;
+  color: #fff;
+}
 .flavours {
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-gap: 0.25rem;
+ /* grid auto columns */
+ width: 100%;
+ grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 0.25rem;
   text-align: left;
 }
 
@@ -95,6 +111,7 @@ const filteredRecipes = computed(() => {
   justify-content: space-between;
   padding: 0;
   list-style: none;
+  width: 100%;
 
 }
 .flavour-input {
@@ -105,12 +122,15 @@ const filteredRecipes = computed(() => {
 .flavour-label {
   font-size: 18px;
   color: #fff;
+  width: 100%;
+  word-wrap: break-word;
 }
 
 .container {
-  max-width: 960px;
-  margin: 0 auto;
-  padding: 32px;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  position: relative;
   font-family: Arial, sans-serif;
   color: #333;
 }
@@ -133,8 +153,8 @@ const filteredRecipes = computed(() => {
 
 .recipes {
   display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  grid-gap: 16px;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1rem;
 }
 
 .recipe {
@@ -142,10 +162,7 @@ const filteredRecipes = computed(() => {
   padding: 16px;
   border-radius: 8px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
-
-  @media (max-width: 767px) {
-    width: 100%;
-  }
+  max-width: 100%;
 }
 
 .recipe-name {
