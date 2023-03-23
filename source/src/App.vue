@@ -33,14 +33,22 @@ function getLocalStorage () {
   }
 }
 
+function selectAllFlavours () {
+  myFlavours.value = allFlavours.value
+  updateLocalStorage()
+}
+
+function deselectAllFlavours () {
+  myFlavours.value = []
+  updateLocalStorage()
+}
+
 // Computed
 const filteredRecipes = computed(() => {
-// only show recipes that include all matching flavours found in myFlavours
+// filter out any recipes that include flavours that are not in myFlavours
   return recipes.value.filter((recipe: TypeRecipe) => {
-    return myFlavours.value.every((flavour: string) => {
-      return recipe.flavours.some((recipeFlavour: TypeFlavour) => {
-        return recipeFlavour.name === flavour
-      })
+    return recipe.flavours.every((flavour: TypeFlavour) => {
+      return myFlavours.value.includes(flavour.name)
     })
   })
 })
@@ -52,6 +60,10 @@ const filteredRecipes = computed(() => {
       <h1 class="title">Flavour Town</h1>
       <!-- <h2 class="author">{{ author }}</h2> -->
     </div>
+    <div class="btn-wrap">
+    <button class="btn" @click="selectAllFlavours">Select All</button>
+    <button class="btn" @click="deselectAllFlavours">Deselect All</button>
+  </div>
     <ul class="flavours">
       <li class="flavour" v-for="flavour in allFlavours" :key="flavour">
         <label class="flavour-label">
@@ -91,11 +103,28 @@ const filteredRecipes = computed(() => {
   margin: 0;
 }
 
+.btn-wrap {
+display: flex;
+position: relative;
+gap: 1rem;
+}
+
+.btn {
+  font-size: 20px;
+  width: 200px;
+  padding: 1rem;
+  margin-bottom: 0.5rem;
+  background-color: #f43d83;
+}
+
 h1 {
-  font-size: 36px;
-  font-weight: bold;
-  margin: 0;
+  font-size: 3rem;
+  font-weight: 400;
   color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 0.1rem;
+  margin-bottom: 1rem;
 }
 .flavours {
   display: grid;
