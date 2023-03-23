@@ -1,28 +1,47 @@
 <script setup lang="ts">
-import { ref } from 'vue'
+import { ref, computed } from 'vue'
 import Recipes from '@/assets/data/recipes.json'
-import type { TypeRecipes } from '@/Types'
+import type { TypeRecipes, TypeRecipe, TypeFlavour } from '@/Types'
+
 // State
 const recipes = ref(Recipes as TypeRecipes)
+const allFlavours = ref([] as string[])
+const myFlavours = ref([] as string[])
 
-function filterRecipesByFlavours(recipes, flavours) {
-  return recipes.filter(recipe => {
-    const recipeFlavours = recipe.flavours.map(flavour => flavour.name);
-    return flavours.every(flavour => recipeFlavours.includes(flavour));
-  });
+// Created
+uniqueFlavours()
+getLocalStorage()
+
+function uniqueFlavours() {
+  recipes.value.forEach((recipe: TypeRecipe) => {
+    recipe.flavours.forEach((flavour: TypeFlavour) => {
+      if (!allFlavours.value.includes(flavour.name)) {
+        allFlavours.value.push(flavour.name)
+      }
+    })
+  })
 }
 
-console.log(filterRecipesByFlavours(recipes.value, ['Granny Smith', 'Lemon']));
+function updateLocalStorage () {
+  localStorage.setItem('myFlavours', JSON.stringify(myFlavours.value))
+}
 
-// const filterByFlavour = (recipes, flavourName) => {
-//   return recipes.filter(recipe => {
-//     return recipe.flavours.some(flavour => flavour.name.toLowerCase().includes(flavourName.toLowerCase()))
-//   })
-// }
+function getLocalStorage () {
+  const localFlavours = localStorage.getItem('myFlavours')
+  if (localFlavours) {
+    myFlavours.value = JSON.parse(localFlavours)
+  }
+}
 
-// // Example usage:
-// const filteredRecipes = filterByFlavour(recipes.value, "vanilla")
-// console.log(filteredRecipes)
+// Computed
+const filteredRecipes = computed(() => {
+// only show recipes that includes flavours found in myFlavours
+  return recipes.value.filter((recipe: TypeRecipe) => {
+    return recipe.flavours.some((flavour: TypeFlavour) => {
+      return myFlavours.value.includes(flavour.name)
+    })
+  })
+})
 </script>
 
 <template>
@@ -31,8 +50,16 @@ console.log(filterRecipesByFlavours(recipes.value, ['Granny Smith', 'Lemon']));
       <h1 class="title">{{ title }}</h1>
       <h2 class="author">{{ author }}</h2>
     </div> -->
+    <ul class="flavours">
+      <li class="flavour" v-for="flavour in allFlavours" :key="flavour">
+        <label class="flavour-label">
+          <input class="flavour-input" type="checkbox" name="flavour" v-model="myFlavours" :value="flavour" @change="updateLocalStorage"/>
+          {{ flavour }}</label
+        >
+      </li>
+    </ul>
     <div class="recipes">
-      <div class="recipe" v-for="recipe in recipes" :key="recipe.recipeName">
+      <div class="recipe" v-for="recipe in filteredRecipes" :key="recipe.recipeName">
         <p class="recipe-author">{{ recipe.author }}</p>
         <h3 class="recipe-name">{{ recipe.recipeName }}</h3>
         <p class="recipe-description">{{ recipe.description }}</p>
@@ -54,18 +81,32 @@ console.log(filterRecipesByFlavours(recipes.value, ['Granny Smith', 'Lemon']));
     </div>
   </div>
 </template>
-<!-- <ul class="recipe-flavours">
-          <li v-for="flavour in recipe.flavours" :key="flavour.name" class="flavour">
-            <p class="flavour-name">{{ flavour.name }}</p>
-            <p class="flavour-percentage">{{ flavour.percent }}%</p>
-            <p class="flavour-grams">{{ flavour.grams }}g</p>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div> -->
 
 <style scoped>
+.flavours {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 0.25rem;
+  text-align: left;
+}
+
+.flavour {
+  display: flex;
+  justify-content: space-between;
+  padding: 0;
+  list-style: none;
+
+}
+.flavour-input {
+  margin-right: 8px;
+
+}
+
+.flavour-label {
+  font-size: 18px;
+  color: #fff;
+}
+
 .container {
   max-width: 960px;
   margin: 0 auto;
@@ -122,6 +163,9 @@ console.log(filterRecipesByFlavours(recipes.value, ['Granny Smith', 'Lemon']));
   margin: 0;
   padding: 0;
   list-style: none;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 8px;
 }
 
 .flavour {
@@ -140,6 +184,7 @@ console.log(filterRecipesByFlavours(recipes.value, ['Granny Smith', 'Lemon']));
 
 .flavour-percentage {
   margin: 0;
+  display: none;
 }
 
 .flavour-grams {
