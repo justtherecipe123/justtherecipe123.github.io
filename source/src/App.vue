@@ -18,6 +18,7 @@ function uniqueFlavours() {
     recipe.flavours.forEach((flavour: TypeFlavour) => {
       if (!allFlavours.value.includes(flavour.name)) {
         allFlavours.value.push(flavour.name)
+        allFlavours.value.sort()
       }
     })
   })
@@ -71,7 +72,7 @@ const filteredRecipes = computed(() => {
 <template>
   <div class="container">
     <div class="header">
-      <h1 class="title">Flavour Town</h1>
+      <h1 class="title">Recipes</h1>
       <!-- <h2 class="author">{{ author }}</h2> -->
     </div>
     <div class="btn-wrap">
