@@ -7,13 +7,15 @@ import type { TypeRecipes, TypeRecipe, TypeFlavour } from '@/Types'
 const recipes = ref(Recipes as TypeRecipes)
 const allFlavours = ref([] as string[])
 const myFlavours = ref([] as string[])
-const missingFlavourActive = ref(false)
+const missingFlavoursAmount = ref(0)
+const allRecipesActive = ref(false)
 
-// Created
-uniqueFlavours()
-getLocalStorage()
+// Methods
+const toggleAllRecipes = () => {
+  allRecipesActive.value = !allRecipesActive.value
+}
 
-function uniqueFlavours() {
+const uniqueFlavours = () => {
   recipes.value.forEach((recipe: TypeRecipe) => {
     recipe.flavours.forEach((flavour: TypeFlavour) => {
       if (!allFlavours.value.includes(flavour.name)) {
@@ -23,48 +25,37 @@ function uniqueFlavours() {
     })
   })
 }
+uniqueFlavours()
 
-function updateLocalStorage () {
+const updateLocalStorage = () => {
   localStorage.setItem('myFlavours', JSON.stringify(myFlavours.value))
 }
 
-function getLocalStorage () {
+const getLocalStorage = () => {
   const localFlavours = localStorage.getItem('myFlavours')
   if (localFlavours) {
     myFlavours.value = JSON.parse(localFlavours)
   }
 }
+getLocalStorage()
 
-function selectAllFlavours () {
-  myFlavours.value = allFlavours.value
-  updateLocalStorage()
-}
-
-function deselectAllFlavours () {
+const deselectAllFlavours = () => {
   myFlavours.value = []
   updateLocalStorage()
 }
 
-function allowMissingFlavour () {
-  missingFlavourActive.value = true
-}
-
-function disallowMissingFlavour () {
-  missingFlavourActive.value = false
-}
-
 // Computed
 const filteredRecipes = computed(() => {
-// filter out any recipes that include flavours that are not in myFlavours, but allow for 1 missing flavour if missingFlavourActive is true
+  if (allRecipesActive.value) {
+    return recipes.value
+  }
+
+  // filter out any recipes that include flavours that are not in myFlavours, but allow for 1 missing flavour if missingFlavourActive is true
   return recipes.value.filter((recipe: TypeRecipe) => {
     const missingFlavours = recipe.flavours.filter((flavour: TypeFlavour) => {
       return !myFlavours.value.includes(flavour.name)
     })
-    if (missingFlavourActive.value) {
-      return missingFlavours.length <= 1
-    } else {
-      return missingFlavours.length === 0
-    }
+    return missingFlavours.length <= missingFlavoursAmount.value
   })
 })
 </script>
@@ -72,24 +63,33 @@ const filteredRecipes = computed(() => {
 <template>
   <div class="container">
     <div class="header">
-      <h1 class="title">Recipes</h1>
+      <h1 class="title">Flavorah Recipe Filter</h1>
       <!-- <h2 class="author">{{ author }}</h2> -->
     </div>
     <div class="btn-wrap">
-    <button class="btn" @click="selectAllFlavours">Select All</button>
-    <button class="btn" @click="deselectAllFlavours">Deselect All</button>
-    <button class="btn" @click="allowMissingFlavour">Allow 1 missing flavour</button>
-    <button class="btn" @click="disallowMissingFlavour">Disallow 1 missing flavour</button>
-
-  </div>
+      <div class="top-section">
+        <div class="toggle-recipes">
+          <label for="all-recipes">Show all recipes</label>
+          <input id="all-recipes" type="checkbox" @change="toggleAllRecipes" />
+        </div>
+        <div class="missing-flavours">
+          <label for="input-number">Allow for</label>
+          <input id="input-number" class="input-number" v-model="missingFlavoursAmount" type="number" min="0" max="10" step="1" />
+          <span>missing Flavours</span>
+        </div>
+      </div>
+    </div>
+    <h2 class="my-flavours-title">My Flavours</h2>
     <ul class="flavours">
       <li class="flavour" v-for="flavour in allFlavours" :key="flavour">
         <label class="flavour-label">
-          <input class="flavour-input" type="checkbox" name="flavour" v-model="myFlavours" :value="flavour" @change="updateLocalStorage"/>
+          <input class="flavour-input" type="checkbox" name="flavour" v-model="myFlavours" :value="flavour" @change="updateLocalStorage" />
           {{ flavour }}</label
         >
       </li>
     </ul>
+    <button class="btn" @click="deselectAllFlavours">Clear my flavours</button>
+
     <div class="recipes">
       <div class="recipe" v-for="recipe in filteredRecipes" :key="recipe.recipeName">
         <p class="recipe-author">{{ recipe.author }}</p>
@@ -121,12 +121,69 @@ const filteredRecipes = computed(() => {
   margin: 0;
 }
 
+.input-number {
+  font-size: 1.5rem;
+  width: 4rem;
+  border-radius: 8px;
+  margin-left: 0.5rem;
+  margin-right: 0.5rem;
+  text-indent: 1rem;
+}
+
+.top-section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin-bottom: 1rem;
+  border: 1px solid #ffffff50;
+  border-radius: 8px;
+  padding: 1rem;
+}
+
+.toggle-recipes {
+  display: flex;
+  width: 100%;
+  position: relative;
+  font-size: 20px;
+  color: #fff;
+  align-items: center;
+  justify-content: flex-start;
+  margin-bottom: 1rem;
+}
+
+.my-flavours-title {
+  font-size: 20px;
+  color: #f43d83;
+  text-align: left;
+  margin-bottom: 0.5rem;
+  font-weight: 400;
+}
+
+.toggle-recipes label {
+  margin-right: 0.5rem;
+}
+.toggle-recipes input {
+  margin-top: 2px;
+}
+
+.missing-flavours {
+  display: flex;
+  position: relative;
+  width: 100%;
+  font-size: 20px;
+  color: #fff;
+  align-items: center;
+  height: 1.5rem;
+}
+
 .btn-wrap {
-display: flex;
-position: relative;
-gap: 0.5rem;
-flex-wrap: wrap;
-margin-bottom: 0.5rem;
+  display: flex;
+  position: relative;
+  gap: 0.5rem;
+  flex-wrap: wrap;
+  margin-bottom: 0.5rem;
 }
 
 .btn {
@@ -137,21 +194,17 @@ margin-bottom: 0.5rem;
   background-color: #f43d83;
 }
 
-h1 {
-  font-size: 3rem;
-  font-weight: 400;
-  color: #fff;
-  text-align: center;
-  text-transform: uppercase;
-  letter-spacing: 0.1rem;
-  margin-bottom: 1rem;
-}
 .flavours {
   display: grid;
- /* grid auto columns */
- width: 100%;
- grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  /* grid auto columns */
+  width: 100%;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  border: 1px solid #ffffff50;
+  padding: 1rem;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 0.25rem;
+  margin-bottom: 1rem;
   text-align: left;
 }
 
@@ -161,11 +214,9 @@ h1 {
   padding: 0;
   list-style: none;
   width: 100%;
-
 }
 .flavour-input {
   margin-right: 8px;
-
 }
 
 .flavour-label {
@@ -185,14 +236,15 @@ h1 {
 }
 
 .header {
-  text-align: center;
-  margin-bottom: 32px;
+  margin-bottom: 1rem;
 }
 
 .title {
-  font-size: 36px;
-  font-weight: bold;
+  font-size: 24px;
+  font-weight: 400;
   margin: 0;
+  color: #f43d83;
+  text-align: left;
 }
 
 .author {
